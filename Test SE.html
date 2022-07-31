@@ -1,0 +1,52 @@
+<script src="https://unpkg.com/@esotericsoftware/spine-player@4.0.*/dist/iife/spine-player.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/@esotericsoftware/spine-player@4.0.*/dist/spine-player.css">
+
+<div>
+    Select Asset: <select id="asset-selector"></select> or Load by id: <input id="asset-id" type="text"><button id="load-asset">Load Asset</button> Currently showing: <span id="current-id"></span>
+</div>
+<div id="player-container" style="width: 100%; height: 95vh;"></div>
+
+<script>
+    const assetBaseUrl = 'https://raw.githubusercontent.com/zeak6464/Digimon-Survive-Spine/main/Spine';
+    let player;
+
+    const currentAssetIdLabel = document.getElementById('current-id');
+    function loadAsset(id) {
+        if (player) {
+            player.dispose();
+        }
+        player = new spine.SpinePlayer("player-container", {
+            jsonUrl: `${assetBaseUrl}/bu${id}_se.skel.json`,
+            atlasUrl: `${assetBaseUrl}/bu${id}_se.skel.atlas`,
+            alpha: true, // Enable player translucency
+            backgroundColor: "#00000000" // Background is fully transparent
+        });
+        currentAssetIdLabel.inserText = id;
+    }
+
+    const selector = document.getElementById('asset-selector');
+    selector.onchange = (e) => {
+        loadAsset(e.target.value);
+    };
+
+    const assetIdInput = document.getElementById('asset-id');
+    const loadAssetButton = document.getElementById('load-asset');
+    loadAssetButton.onclick = (e) => {
+        loadAsset(assetIdInput.value);
+        assetIdInput.value = '';
+    };
+
+    async function retrieveAssetIds() {
+        const assetFiles = await fetch('https://api.github.com/repos/zeak6464/Digimon-Survive-Spise/contents/Spise').then((res) => res.json());
+
+        const assetIds = assetFiles
+                        .filter((file) => file.type === 'file' && /\_se.skel\.json$/.test(file.name))
+                        .map((af) => af.name.replace(/bu(\d+)\_se.skel\.json$/, '$1'))
+                        .filter((id) => assetFiles.findIndex((af) => af.name === `bu${id}_se.skel.json`) !== -1);
+
+        selector.inserHTML = assetIds.map((id) => `<option value="${id}">${id}</>`).join('');
+		
+        loadAsset(assetIds[0]);
+    }
+    retrieveAssetIds();
+</script>
