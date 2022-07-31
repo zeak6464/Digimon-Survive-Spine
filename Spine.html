@@ -7,7 +7,7 @@
 <div id="player-container" style="width: 100%; height: 95vh;"></div>
 
 <script>
-    const assetBaseUrl = 'https://raw.githubusercontent.com/zeak6464/Spine2D-Master-Duel/main/master%20duel';
+    const assetBaseUrl = 'https://raw.githubusercontent.com/zeak6464/Digimon-Survive-Spine/main/Spine';
     let player;
 
     const currentAssetIdLabel = document.getElementById('current-id');
@@ -16,8 +16,8 @@
             player.dispose();
         }
         player = new spine.SpinePlayer("player-container", {
-            jsonUrl: `${assetBaseUrl}/P${id}JS.asset`,
-            atlasUrl: `${assetBaseUrl}/P${id}.atlas.asset`,
+            jsonUrl: `${assetBaseUrl}/${id}JS.asset`,
+            atlasUrl: `${assetBaseUrl}/${id}.atlas.asset`,
             alpha: true, // Enable player translucency
             backgroundColor: "#00000000" // Background is fully transparent
         });
@@ -37,7 +37,7 @@
     };
 
     async function retrieveAssetIds() {
-        const assetFiles = await fetch('https://api.github.com/repos/zeak6464/Spine2D-Master-Duel/contents/master%20duel').then((res) => res.json());
+        const assetFiles = await fetch('https://api.github.com/repos/zeak6464/Digimon-Survive-Spine/contents/Spine').then((res) => res.json());
 
         const assetIds = assetFiles
                         .filter((file) => file.type === 'file' && /\.atlas\.asset$/.test(file.name))
