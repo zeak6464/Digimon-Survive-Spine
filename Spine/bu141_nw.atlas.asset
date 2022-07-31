@@ -1,0 +1,20 @@
+
+bu141_nw.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head_01A
+  rotate: false
+  xy: 407, 40
+  size: 215, 457
+  orig: 215, 457
+  offset: 0, 0
+  index: -1
+head_02A
+  rotate: false
+  xy: 2, 2
+  size: 403, 495
+  orig: 403, 495
+  offset: 0, 0
+  index: -1

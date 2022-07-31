@@ -1,0 +1,321 @@
+
+bu220_ne.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_body_attack01_01_03
+  rotate: true
+  xy: 993, 863
+  size: 297, 374
+  orig: 297, 374
+  offset: 0, 0
+  index: -1
+b_body_attack02_03
+  rotate: true
+  xy: 1, 310
+  size: 261, 333
+  orig: 261, 333
+  offset: 0, 0
+  index: -1
+b_body_damage
+  rotate: true
+  xy: 419, 679
+  size: 206, 341
+  orig: 206, 341
+  offset: 0, 0
+  index: -1
+b_body_defense01
+  rotate: true
+  xy: 1751, 363
+  size: 316, 296
+  orig: 316, 296
+  offset: 0, 0
+  index: -1
+b_body_jump03_03
+  rotate: true
+  xy: 1748, 110
+  size: 251, 298
+  orig: 251, 298
+  offset: 0, 0
+  index: -1
+b_body_run03
+  rotate: true
+  xy: 1430, 804
+  size: 261, 325
+  orig: 261, 325
+  offset: 0, 0
+  index: -1
+b_body_stand01
+  rotate: false
+  xy: 742, 1
+  size: 250, 222
+  orig: 250, 222
+  offset: 0, 0
+  index: -1
+b_body_stand02
+  rotate: true
+  xy: 1009, 137
+  size: 248, 252
+  orig: 248, 252
+  offset: 0, 0
+  index: -1
+b_body_stand03
+  rotate: true
+  xy: 993, 601
+  size: 260, 325
+  orig: 260, 325
+  offset: 0, 0
+  index: -1
+b_body_unique03
+  rotate: true
+  xy: 419, 458
+  size: 219, 338
+  orig: 219, 338
+  offset: 0, 0
+  index: -1
+b_body_weak01
+  rotate: true
+  xy: 1427, 533
+  size: 269, 322
+  orig: 269, 322
+  offset: 0, 0
+  index: -1
+b_eye_damage
+  rotate: false
+  xy: 336, 489
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+b_eye_weak01
+  rotate: true
+  xy: 336, 539
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+b_handL_jump03_02
+  rotate: false
+  xy: 1889, 1356
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+b_handL_stand01
+  rotate: true
+  xy: 1320, 311
+  size: 169, 103
+  orig: 169, 103
+  offset: 0, 0
+  index: -1
+b_handL_stand02
+  rotate: false
+  xy: 1320, 482
+  size: 105, 174
+  orig: 105, 174
+  offset: 0, 0
+  index: -1
+b_handR_attack01_01_01
+  rotate: false
+  xy: 1040, 387
+  size: 278, 212
+  orig: 278, 212
+  offset: 0, 0
+  index: -1
+b_handR_attack01_01_02
+  rotate: false
+  xy: 1263, 129
+  size: 132, 180
+  orig: 132, 180
+  offset: 0, 0
+  index: -1
+b_handR_attack01_02
+  rotate: false
+  xy: 1757, 773
+  size: 125, 183
+  orig: 125, 183
+  offset: 0, 0
+  index: -1
+b_handR_attack02_01
+  rotate: false
+  xy: 1427, 300
+  size: 319, 231
+  orig: 319, 231
+  offset: 0, 0
+  index: -1
+b_handR_attack02_02
+  rotate: true
+  xy: 1889, 943
+  size: 182, 145
+  orig: 182, 145
+  offset: 0, 0
+  index: -1
+b_handR_defense01
+  rotate: true
+  xy: 743, 225
+  size: 169, 264
+  orig: 169, 264
+  offset: 0, 0
+  index: -1
+b_handR_jump03_01
+  rotate: false
+  xy: 759, 396
+  size: 279, 203
+  orig: 279, 203
+  offset: 0, 0
+  index: -1
+b_handR_jump03_02
+  rotate: true
+  xy: 1884, 681
+  size: 121, 163
+  orig: 121, 163
+  offset: 0, 0
+  index: -1
+b_handR_run01
+  rotate: true
+  xy: 762, 601
+  size: 264, 229
+  orig: 264, 229
+  offset: 0, 0
+  index: -1
+b_handR_stand01
+  rotate: true
+  xy: 846, 867
+  size: 224, 140
+  orig: 224, 140
+  offset: 0, 0
+  index: -1
+b_handR_stand02
+  rotate: true
+  xy: 1, 187
+  size: 121, 185
+  orig: 122, 188
+  offset: 1, 0
+  index: -1
+b_handR_unique01
+  rotate: true
+  xy: 336, 213
+  size: 243, 266
+  orig: 243, 266
+  offset: 0, 0
+  index: -1
+b_head_stand01
+  rotate: false
+  xy: 426, 887
+  size: 418, 318
+  orig: 418, 318
+  offset: 0, 0
+  index: -1
+b_head_unique02
+  rotate: true
+  xy: 1444, 1067
+  size: 382, 443
+  orig: 382, 443
+  offset: 0, 0
+  index: -1
+b_legL_stand01
+  rotate: false
+  xy: 604, 280
+  size: 137, 176
+  orig: 137, 176
+  offset: 0, 0
+  index: -1
+b_legL_stand02
+  rotate: false
+  xy: 1889, 1227
+  size: 154, 127
+  orig: 154, 127
+  offset: 0, 0
+  index: -1
+b_legL_stand03
+  rotate: false
+  xy: 846, 1093
+  size: 145, 112
+  orig: 145, 112
+  offset: 0, 0
+  index: -1
+b_legR_stand01
+  rotate: false
+  xy: 604, 154
+  size: 136, 124
+  orig: 143, 128
+  offset: 0, 4
+  index: -1
+b_legR_stand02
+  rotate: false
+  xy: 1884, 804
+  size: 163, 137
+  orig: 163, 137
+  offset: 0, 0
+  index: -1
+b_legR_stand03
+  rotate: true
+  xy: 1320, 658
+  size: 203, 105
+  orig: 203, 105
+  offset: 0, 0
+  index: -1
+b_mouth_damage01
+  rotate: false
+  xy: 1889, 1127
+  size: 151, 98
+  orig: 151, 98
+  offset: 0, 0
+  index: -1
+b_mouth_damege02
+  rotate: true
+  xy: 1369, 1055
+  size: 105, 59
+  orig: 105, 59
+  offset: 0, 0
+  index: -1
+b_mouth_stand
+  rotate: false
+  xy: 1757, 958
+  size: 129, 107
+  orig: 129, 107
+  offset: 0, 0
+  index: -1
+b_mouth_unique01
+  rotate: false
+  xy: 994, 16
+  size: 227, 119
+  orig: 227, 119
+  offset: 0, 0
+  index: -1
+b_tail_attack01_01_01
+  rotate: false
+  xy: 1, 900
+  size: 423, 305
+  orig: 423, 305
+  offset: 0, 0
+  index: -1
+b_tail_attack02_01
+  rotate: false
+  xy: 1, 1207
+  size: 494, 242
+  orig: 494, 242
+  offset: 0, 0
+  index: -1
+b_tail_run01
+  rotate: false
+  xy: 497, 1207
+  size: 494, 242
+  orig: 494, 242
+  offset: 0, 0
+  index: -1
+b_tail_stand01
+  rotate: false
+  xy: 1, 573
+  size: 416, 325
+  orig: 416, 325
+  offset: 0, 0
+  index: -1
+b_tail_weak01
+  rotate: false
+  xy: 993, 1162
+  size: 449, 287
+  orig: 449, 287
+  offset: 0, 0
+  index: -1

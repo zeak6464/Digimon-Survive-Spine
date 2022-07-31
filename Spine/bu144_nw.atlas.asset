@@ -1,0 +1,20 @@
+
+bu144_nw.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 2
+  size: 317, 251
+  orig: 317, 251
+  offset: 0, 0
+  index: -1
+head_unique
+  rotate: false
+  xy: 321, 202
+  size: 40, 51
+  orig: 362, 457
+  offset: 194, 110
+  index: -1

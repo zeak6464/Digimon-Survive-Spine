@@ -1,0 +1,468 @@
+
+bu124_nw.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_ArmL_a
+  rotate: true
+  xy: 1549, 1131
+  size: 192, 271
+  orig: 192, 271
+  offset: 0, 0
+  index: -1
+A_ArmL_a_Horn
+  rotate: true
+  xy: 1479, 1674
+  size: 103, 176
+  orig: 103, 176
+  offset: 0, 0
+  index: -1
+A_ArmL_b
+  rotate: true
+  xy: 1093, 1686
+  size: 91, 122
+  orig: 91, 122
+  offset: 0, 0
+  index: -1
+A_ArmR_a
+  rotate: true
+  xy: 215, 1014
+  size: 204, 279
+  orig: 204, 279
+  offset: 0, 0
+  index: -1
+A_ArmR_a_Horn
+  rotate: true
+  xy: 906, 1167
+  size: 191, 219
+  orig: 191, 219
+  offset: 0, 0
+  index: -1
+A_ArmR_b
+  rotate: true
+  xy: 1344, 1678
+  size: 99, 133
+  orig: 99, 133
+  offset: 0, 0
+  index: -1
+A_EyeR
+  rotate: true
+  xy: 1, 1765
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+A_FootL
+  rotate: false
+  xy: 1789, 1651
+  size: 232, 126
+  orig: 232, 126
+  offset: 0, 0
+  index: -1
+A_FootR
+  rotate: false
+  xy: 1293, 1525
+  size: 298, 147
+  orig: 298, 147
+  offset: 0, 0
+  index: -1
+A_HandL
+  rotate: true
+  xy: 1846, 1316
+  size: 184, 189
+  orig: 184, 189
+  offset: 0, 0
+  index: -1
+A_HandR
+  rotate: false
+  xy: 1, 1041
+  size: 212, 211
+  orig: 212, 211
+  offset: 0, 0
+  index: -1
+A_Head
+  rotate: false
+  xy: 1386, 678
+  size: 252, 238
+  orig: 252, 238
+  offset: 0, 0
+  index: -1
+A_Headgear
+  rotate: false
+  xy: 1782, 1502
+  size: 239, 147
+  orig: 239, 147
+  offset: 0, 0
+  index: -1
+A_Headgear_FurL
+  rotate: true
+  xy: 564, 1692
+  size: 85, 280
+  orig: 85, 280
+  offset: 0, 0
+  index: -1
+A_Headgear_FurR
+  rotate: true
+  xy: 1, 1588
+  size: 116, 368
+  orig: 116, 368
+  offset: 0, 0
+  index: -1
+A_Headgear_HornC
+  rotate: true
+  xy: 1657, 1674
+  size: 103, 130
+  orig: 103, 130
+  offset: 0, 0
+  index: -1
+A_Headgear_HornL
+  rotate: true
+  xy: 250, 1706
+  size: 71, 139
+  orig: 71, 139
+  offset: 0, 0
+  index: -1
+A_Headgear_HornR
+  rotate: true
+  xy: 952, 1688
+  size: 89, 139
+  orig: 89, 139
+  offset: 0, 0
+  index: -1
+A_LBody
+  rotate: true
+  xy: 1, 267
+  size: 287, 275
+  orig: 287, 275
+  offset: 0, 0
+  index: -1
+A_LegL_a
+  rotate: false
+  xy: 1193, 1348
+  size: 179, 175
+  orig: 179, 175
+  offset: 0, 0
+  index: -1
+A_LegL_b
+  rotate: true
+  xy: 545, 1385
+  size: 168, 206
+  orig: 168, 206
+  offset: 0, 0
+  index: -1
+A_LegR_a
+  rotate: false
+  xy: 1128, 702
+  size: 256, 233
+  orig: 256, 233
+  offset: 0, 0
+  index: -1
+A_LegR_b
+  rotate: true
+  xy: 1427, 918
+  size: 211, 295
+  orig: 211, 295
+  offset: 0, 0
+  index: -1
+A_UBody
+  rotate: false
+  xy: 1042, 33
+  size: 429, 385
+  orig: 429, 385
+  offset: 0, 0
+  index: -1
+A_w_ArmL_c
+  rotate: true
+  xy: 496, 992
+  size: 196, 355
+  orig: 196, 355
+  offset: 0, 0
+  index: -1
+A_w_ArmR_c
+  rotate: true
+  xy: 637, 138
+  size: 307, 403
+  orig: 307, 403
+  offset: 0, 0
+  index: -1
+C_ArmR_b
+  rotate: true
+  xy: 118, 1707
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1
+C_HandR
+  rotate: true
+  xy: 501, 1201
+  size: 182, 206
+  orig: 182, 206
+  offset: 0, 0
+  index: -1
+C_w_ArmR_c
+  rotate: false
+  xy: 1822, 1109
+  size: 222, 205
+  orig: 222, 205
+  offset: 0, 0
+  index: -1
+D1_ArmL_a
+  rotate: false
+  xy: 42, 1728
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+D1_ArmR_b
+  rotate: false
+  xy: 391, 1704
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+D1_FootR
+  rotate: false
+  xy: 709, 1190
+  size: 195, 189
+  orig: 195, 189
+  offset: 0, 0
+  index: -1
+D1_HandL
+  rotate: true
+  xy: 753, 1381
+  size: 168, 172
+  orig: 168, 172
+  offset: 0, 0
+  index: -1
+D1_LegL_a
+  rotate: false
+  xy: 222, 1220
+  size: 277, 180
+  orig: 277, 180
+  offset: 0, 0
+  index: -1
+D1_LegL_b
+  rotate: true
+  xy: 1640, 649
+  size: 238, 272
+  orig: 238, 272
+  offset: 0, 0
+  index: -1
+D1_LegR_a
+  rotate: true
+  xy: 846, 703
+  size: 232, 280
+  orig: 232, 280
+  offset: 0, 0
+  index: -1
+D1_LegR_b
+  rotate: true
+  xy: 1, 1254
+  size: 179, 219
+  orig: 179, 219
+  offset: 0, 0
+  index: -1
+D1_w_ArmR_c
+  rotate: true
+  xy: 883, 447
+  size: 253, 281
+  orig: 253, 281
+  offset: 0, 0
+  index: -1
+D2_FootL
+  rotate: false
+  xy: 1374, 1344
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+D2_FootR
+  rotate: true
+  xy: 325, 1402
+  size: 161, 218
+  orig: 161, 218
+  offset: 0, 0
+  index: -1
+D2_LegL_a
+  rotate: true
+  xy: 1127, 1155
+  size: 191, 211
+  orig: 191, 211
+  offset: 0, 0
+  index: -1
+D2_LegL_b
+  rotate: true
+  xy: 1042, 1532
+  size: 146, 249
+  orig: 146, 249
+  offset: 0, 0
+  index: -1
+D2_LegR_a
+  rotate: false
+  xy: 1724, 889
+  size: 317, 218
+  orig: 317, 218
+  offset: 0, 0
+  index: -1
+D2_LegR_b
+  rotate: false
+  xy: 831, 1551
+  size: 209, 135
+  orig: 209, 135
+  offset: 0, 0
+  index: -1
+E_ArmR_b
+  rotate: true
+  xy: 479, 1697
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+E_FootR
+  rotate: true
+  xy: 371, 1565
+  size: 125, 264
+  orig: 125, 264
+  offset: 0, 0
+  index: -1
+E_HandR
+  rotate: true
+  xy: 1340, 1148
+  size: 194, 207
+  orig: 194, 207
+  offset: 0, 0
+  index: -1
+E_w_ArmR_c
+  rotate: false
+  xy: 1550, 389
+  size: 295, 258
+  orig: 295, 258
+  offset: 0, 0
+  index: -1
+F_ArmR_b
+  rotate: true
+  xy: 1217, 1680
+  size: 97, 125
+  orig: 97, 125
+  offset: 0, 0
+  index: -1
+F_HandL
+  rotate: false
+  xy: 927, 1360
+  size: 264, 170
+  orig: 264, 170
+  offset: 0, 0
+  index: -1
+F_HandR
+  rotate: false
+  xy: 1, 556
+  size: 285, 243
+  orig: 285, 243
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: true
+  xy: 600, 451
+  size: 250, 281
+  orig: 250, 281
+  offset: 0, 0
+  index: -1
+F_Headgear_FurR
+  rotate: false
+  xy: 1593, 1508
+  size: 187, 164
+  orig: 187, 164
+  offset: 0, 0
+  index: -1
+G1_ArmR_a
+  rotate: true
+  xy: 328, 770
+  size: 220, 287
+  orig: 220, 287
+  offset: 0, 0
+  index: -1
+G1_ArmR_a_Horn
+  rotate: true
+  xy: 637, 1555
+  size: 135, 192
+  orig: 135, 192
+  offset: 0, 0
+  index: -1
+G1_ArmR_b
+  rotate: false
+  xy: 846, 1691
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+G1_HandR
+  rotate: false
+  xy: 617, 743
+  size: 227, 247
+  orig: 227, 247
+  offset: 0, 0
+  index: -1
+G1_w_ArmR_c
+  rotate: false
+  xy: 1166, 420
+  size: 382, 256
+  orig: 382, 256
+  offset: 0, 0
+  index: -1
+G2_w_ArmR_b
+  rotate: true
+  xy: 1473, 1
+  size: 386, 438
+  orig: 386, 438
+  offset: 0, 0
+  index: -1
+H_ArmL_c
+  rotate: true
+  xy: 853, 950
+  size: 215, 223
+  orig: 215, 223
+  offset: 0, 0
+  index: -1
+H_HandL
+  rotate: false
+  xy: 1591, 1325
+  size: 253, 175
+  orig: 253, 175
+  offset: 0, 0
+  index: -1
+H_HandR
+  rotate: false
+  xy: 1, 801
+  size: 325, 211
+  orig: 325, 211
+  offset: 0, 0
+  index: -1
+H_W_ArmR_c
+  rotate: true
+  xy: 278, 181
+  size: 268, 357
+  orig: 268, 357
+  offset: 0, 0
+  index: -1
+I_ArmL_b
+  rotate: true
+  xy: 1078, 937
+  size: 209, 347
+  orig: 209, 347
+  offset: 0, 0
+  index: -1
+I_Head
+  rotate: true
+  xy: 288, 521
+  size: 247, 310
+  orig: 247, 310
+  offset: 0, 0
+  index: -1
+I_Headgear_FurR
+  rotate: true
+  xy: 1, 1435
+  size: 151, 322
+  orig: 151, 322
+  offset: 0, 0
+  index: -1

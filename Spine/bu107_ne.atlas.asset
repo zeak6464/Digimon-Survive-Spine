@@ -1,0 +1,223 @@
+
+bu107_ne.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A2_arm_R
+  rotate: true
+  xy: 611, 52
+  size: 224, 120
+  orig: 224, 120
+  offset: 0, 0
+  index: -1
+A_arm_R
+  rotate: false
+  xy: 260, 58
+  size: 115, 150
+  orig: 115, 150
+  offset: 0, 0
+  index: -1
+A_arm_R_Sh
+  rotate: true
+  xy: 426, 46
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+A_body
+  rotate: false
+  xy: 521, 278
+  size: 214, 233
+  orig: 214, 233
+  offset: 0, 0
+  index: -1
+A_body2
+  rotate: false
+  xy: 426, 80
+  size: 121, 140
+  orig: 121, 140
+  offset: 0, 0
+  index: -1
+A_eye
+  rotate: false
+  xy: 1, 1
+  size: 4, 16
+  orig: 4, 16
+  offset: 0, 0
+  index: -1
+A_hana1
+  rotate: true
+  xy: 377, 65
+  size: 145, 47
+  orig: 145, 47
+  offset: 0, 0
+  index: -1
+A_hana2
+  rotate: false
+  xy: 737, 377
+  size: 125, 134
+  orig: 125, 134
+  offset: 0, 0
+  index: -1
+A_hana3
+  rotate: false
+  xy: 1, 19
+  size: 60, 189
+  orig: 60, 189
+  offset: 0, 0
+  index: -1
+A_hana4
+  rotate: false
+  xy: 63, 20
+  size: 42, 188
+  orig: 42, 188
+  offset: 0, 0
+  index: -1
+A_hana5
+  rotate: false
+  xy: 972, 393
+  size: 83, 118
+  orig: 83, 118
+  offset: 0, 0
+  index: -1
+A_hana6
+  rotate: false
+  xy: 107, 2
+  size: 110, 41
+  orig: 110, 41
+  offset: 0, 0
+  index: -1
+A_kuchi sita
+  rotate: false
+  xy: 923, 70
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+A_kuchi_naka
+  rotate: false
+  xy: 315, 212
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+A_kuchi_ue
+  rotate: false
+  xy: 521, 227
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+A_sebire
+  rotate: false
+  xy: 219, 8
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+A_sebire1
+  rotate: true
+  xy: 380, 222
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+A_sebire2
+  rotate: false
+  xy: 415, 222
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+A_tail1
+  rotate: true
+  xy: 926, 215
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+A_tail2
+  rotate: false
+  xy: 864, 386
+  size: 106, 125
+  orig: 106, 125
+  offset: 0, 0
+  index: -1
+B_arm_R
+  rotate: true
+  xy: 107, 45
+  size: 163, 151
+  orig: 163, 151
+  offset: 0, 0
+  index: -1
+C_arm_L
+  rotate: true
+  xy: 733, 53
+  size: 223, 114
+  orig: 223, 114
+  offset: 0, 0
+  index: -1
+C_arm_R1
+  rotate: true
+  xy: 849, 152
+  size: 125, 75
+  orig: 125, 75
+  offset: 0, 0
+  index: -1
+C_arm_R2
+  rotate: true
+  xy: 737, 279
+  size: 96, 127
+  orig: 96, 127
+  offset: 0, 0
+  index: -1
+F_unchi
+  rotate: false
+  xy: 269, 211
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+G2_arm
+  rotate: false
+  xy: 253, 9
+  size: 1031, 34
+  orig: 1031, 34
+  offset: 0, 0
+  index: -1
+G_arm_L
+  rotate: true
+  xy: 269, 258
+  size: 253, 250
+  orig: 253, 250
+  offset: 0, 0
+  index: -1
+G_arm_R
+  rotate: false
+  xy: 1, 210
+  size: 266, 301
+  orig: 266, 301
+  offset: 0, 0
+  index: -1
+I_eye
+  rotate: false
+  xy: 7, 2
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+I_mouth
+  rotate: false
+  xy: 866, 289
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+Z_kuchi_togi
+  rotate: true
+  xy: 849, 59
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1

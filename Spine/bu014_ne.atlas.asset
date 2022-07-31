@@ -1,0 +1,160 @@
+
+bu014_ne.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_body_attack02
+  rotate: true
+  xy: 681, 131
+  size: 124, 184
+  orig: 124, 184
+  offset: 0, 0
+  index: -1
+b_body_jump02
+  rotate: true
+  xy: 700, 10
+  size: 119, 176
+  orig: 119, 176
+  offset: 0, 0
+  index: -1
+b_body_stand
+  rotate: true
+  xy: 510, 113
+  size: 142, 169
+  orig: 142, 169
+  offset: 0, 0
+  index: -1
+b_earL_stand
+  rotate: true
+  xy: 1014, 158
+  size: 97, 47
+  orig: 97, 47
+  offset: 0, 0
+  index: -1
+b_earR_stand01
+  rotate: false
+  xy: 1229, 205
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+b_earR_stand02
+  rotate: true
+  xy: 1173, 161
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+b_handL_attack02
+  rotate: true
+  xy: 1, 4
+  size: 78, 198
+  orig: 78, 198
+  offset: 0, 0
+  index: -1
+b_handL_defense
+  rotate: false
+  xy: 578, 1
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: -1
+b_handL_stand
+  rotate: false
+  xy: 341, 3
+  size: 128, 90
+  orig: 128, 90
+  offset: 0, 0
+  index: -1
+b_handL_weak
+  rotate: true
+  xy: 867, 149
+  size: 106, 78
+  orig: 106, 78
+  offset: 0, 0
+  index: -1
+b_handR_attack02
+  rotate: true
+  xy: 878, 9
+  size: 138, 161
+  orig: 138, 161
+  offset: 0, 0
+  index: -1
+b_handR_stand
+  rotate: false
+  xy: 353, 97
+  size: 155, 158
+  orig: 155, 158
+  offset: 0, 0
+  index: -1
+b_handR_unique
+  rotate: false
+  xy: 1041, 7
+  size: 134, 149
+  orig: 134, 149
+  offset: 0, 0
+  index: -1
+b_handR_weak
+  rotate: false
+  xy: 201, 3
+  size: 138, 90
+  orig: 138, 90
+  offset: 0, 0
+  index: -1
+b_head_damage
+  rotate: false
+  xy: 1, 84
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+b_head_stand
+  rotate: true
+  xy: 174, 95
+  size: 160, 177
+  orig: 160, 177
+  offset: 0, 0
+  index: -1
+b_head_unique
+  rotate: true
+  xy: 1210, 22
+  size: 169, 162
+  orig: 169, 162
+  offset: 0, 0
+  index: -1
+b_legL_stand
+  rotate: true
+  xy: 1119, 186
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+b_legL_weak
+  rotate: true
+  xy: 1173, 193
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+b_legR_stand
+  rotate: true
+  xy: 947, 175
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+b_legR_weak
+  rotate: true
+  xy: 1063, 171
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+b_tail_stand
+  rotate: false
+  xy: 471, 5
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1

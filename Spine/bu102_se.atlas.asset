@@ -1,0 +1,237 @@
+
+bu102_se.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antennae_L
+  rotate: true
+  xy: 145, 6
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+antennae_L_weak
+  rotate: false
+  xy: 325, 4
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+antennae_R
+  rotate: true
+  xy: 389, 4
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+antennae_R_weak
+  rotate: false
+  xy: 934, 93
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 752, 87
+  size: 166, 168
+  orig: 166, 168
+  offset: 0, 0
+  index: -1
+body_damage
+  rotate: false
+  xy: 286, 44
+  size: 204, 211
+  orig: 204, 211
+  offset: 0, 0
+  index: -1
+effect_attack
+  rotate: false
+  xy: 492, 2
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 1319, 89
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+eye_L_damage
+  rotate: false
+  xy: 200, 6
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+eye_L_weak
+  rotate: false
+  xy: 1319, 18
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 696, 6
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+eye_R_damage
+  rotate: false
+  xy: 100, 5
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+eye_R_weak
+  rotate: false
+  xy: 769, 13
+  size: 71, 72
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+hand_T_attack
+  rotate: true
+  xy: 447, 4
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+hand_U_attack
+  rotate: false
+  xy: 1226, 149
+  size: 66, 106
+  orig: 66, 106
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 968, 143
+  size: 256, 112
+  orig: 256, 112
+  offset: 0, 0
+  index: -1
+leg_damage
+  rotate: true
+  xy: 100, 37
+  size: 218, 184
+  orig: 218, 184
+  offset: 0, 0
+  index: -1
+leg_jump
+  rotate: false
+  xy: 492, 80
+  size: 258, 175
+  orig: 258, 175
+  offset: 0, 0
+  index: -1
+leg_run_01
+  rotate: true
+  xy: 1, 4
+  size: 251, 97
+  orig: 251, 97
+  offset: 0, 0
+  index: -1
+leg_run_02
+  rotate: false
+  xy: 1062, 1
+  size: 255, 92
+  orig: 255, 92
+  offset: 0, 0
+  index: -1
+leg_run_03
+  rotate: false
+  xy: 1294, 160
+  size: 255, 95
+  orig: 255, 95
+  offset: 0, 0
+  index: -1
+lip_T_jump
+  rotate: true
+  xy: 240, 6
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+lip_U_jump
+  rotate: true
+  xy: 261, 12
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 842, 14
+  size: 106, 71
+  orig: 106, 71
+  offset: 0, 0
+  index: -1
+pupil_L
+  rotate: false
+  xy: 1116, 99
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+pupil_L_weak
+  rotate: true
+  xy: 920, 91
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+pupil_R
+  rotate: false
+  xy: 1099, 120
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+pupil_R_weak
+  rotate: true
+  xy: 309, 3
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+sweat_weak
+  rotate: false
+  xy: 1099, 98
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+teeth_T
+  rotate: false
+  xy: 576, 5
+  size: 118, 73
+  orig: 118, 73
+  offset: 0, 0
+  index: -1
+teeth_U
+  rotate: true
+  xy: 920, 130
+  size: 125, 46
+  orig: 125, 46
+  offset: 0, 0
+  index: -1
+tongue_B
+  rotate: false
+  xy: 1000, 95
+  size: 97, 46
+  orig: 97, 46
+  offset: 0, 0
+  index: -1
+tongue_F
+  rotate: false
+  xy: 950, 1
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1

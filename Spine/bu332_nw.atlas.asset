@@ -1,0 +1,335 @@
+
+bu332_nw.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_attack_weapon
+  rotate: true
+  xy: 874, 794
+  size: 213, 105
+  orig: 213, 105
+  offset: 0, 0
+  index: -1
+B_collar
+  rotate: true
+  xy: 559, 774
+  size: 233, 116
+  orig: 233, 116
+  offset: 0, 0
+  index: -1
+B_defance_shield1
+  rotate: true
+  xy: 205, 5
+  size: 130, 110
+  orig: 130, 110
+  offset: 0, 0
+  index: -1
+B_defance_shield2
+  rotate: false
+  xy: 1226, 1911
+  size: 97, 136
+  orig: 97, 136
+  offset: 0, 0
+  index: -1
+B_head_gear
+  rotate: false
+  xy: 1083, 845
+  size: 122, 172
+  orig: 122, 172
+  offset: 0, 0
+  index: -1
+B_shield
+  rotate: true
+  xy: 1017, 1019
+  size: 78, 70
+  orig: 78, 73
+  offset: 0, 3
+  index: -1
+B_waist
+  rotate: false
+  xy: 423, 11
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+B_weapon
+  rotate: false
+  xy: 559, 1009
+  size: 194, 351
+  orig: 194, 351
+  offset: 0, 0
+  index: -1
+F_attack_weapon
+  rotate: false
+  xy: 1, 137
+  size: 214, 610
+  orig: 214, 610
+  offset: 0, 0
+  index: -1
+F_body
+  rotate: false
+  xy: 540, 1362
+  size: 244, 163
+  orig: 244, 163
+  offset: 0, 0
+  index: -1
+F_defance_shield
+  rotate: false
+  xy: 469, 180
+  size: 494, 581
+  orig: 494, 581
+  offset: 0, 0
+  index: -1
+F_head_gear
+  rotate: true
+  xy: 755, 1009
+  size: 59, 185
+  orig: 59, 185
+  offset: 0, 0
+  index: -1
+F_shield
+  rotate: false
+  xy: 217, 138
+  size: 250, 609
+  orig: 250, 609
+  offset: 0, 0
+  index: -1
+F_waist
+  rotate: true
+  xy: 1136, 1444
+  size: 148, 110
+  orig: 148, 110
+  offset: 0, 0
+  index: -1
+F_weapon
+  rotate: false
+  xy: 934, 1367
+  size: 200, 158
+  orig: 200, 158
+  offset: 0, 0
+  index: -1
+LB_reg
+  rotate: true
+  xy: 550, 3
+  size: 175, 261
+  orig: 175, 261
+  offset: 0, 0
+  index: -1
+LB_shoulder
+  rotate: false
+  xy: 677, 790
+  size: 94, 217
+  orig: 94, 222
+  offset: 0, 0
+  index: -1
+LB_tight
+  rotate: true
+  xy: 1, 1
+  size: 134, 202
+  orig: 134, 202
+  offset: 0, 0
+  index: -1
+LF_reg
+  rotate: true
+  xy: 1110, 1104
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+LF_shoulder
+  rotate: false
+  xy: 1046, 1594
+  size: 170, 206
+  orig: 170, 206
+  offset: 0, 0
+  index: -1
+LF_tight
+  rotate: true
+  xy: 1089, 1031
+  size: 66, 119
+  orig: 66, 119
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 1218, 1658
+  size: 95, 142
+  orig: 95, 142
+  offset: 0, 0
+  index: -1
+L_elbow
+  rotate: false
+  xy: 1046, 1529
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+L_foot1
+  rotate: false
+  xy: 965, 333
+  size: 114, 124
+  orig: 114, 124
+  offset: 0, 0
+  index: -1
+L_foot2
+  rotate: true
+  xy: 317, 9
+  size: 127, 104
+  orig: 127, 104
+  offset: 0, 0
+  index: -1
+L_u_arm
+  rotate: false
+  xy: 813, 3
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+RB_reg
+  rotate: false
+  xy: 755, 1070
+  size: 154, 290
+  orig: 154, 290
+  offset: 0, 0
+  index: -1
+RF_reg
+  rotate: true
+  xy: 1325, 1922
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+RF_tight
+  rotate: false
+  xy: 773, 793
+  size: 99, 214
+  orig: 99, 214
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 786, 1362
+  size: 146, 163
+  orig: 146, 163
+  offset: 0, 0
+  index: -1
+R_coxa
+  rotate: false
+  xy: 1226, 1809
+  size: 113, 100
+  orig: 113, 100
+  offset: 0, 0
+  index: -1
+R_elbow
+  rotate: true
+  xy: 942, 1011
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+R_foot1
+  rotate: true
+  xy: 929, 5
+  size: 173, 138
+  orig: 173, 138
+  offset: 0, 0
+  index: -1
+R_foot2
+  rotate: true
+  xy: 1110, 1207
+  size: 158, 102
+  orig: 158, 102
+  offset: 0, 0
+  index: -1
+R_shoulder
+  rotate: false
+  xy: 1046, 1802
+  size: 178, 245
+  orig: 178, 246
+  offset: 0, 0
+  index: -1
+R_u_arm
+  rotate: false
+  xy: 981, 826
+  size: 100, 183
+  orig: 100, 183
+  offset: 0, 0
+  index: -1
+belly
+  rotate: false
+  xy: 965, 459
+  size: 94, 125
+  orig: 94, 125
+  offset: 0, 0
+  index: -1
+cloak1
+  rotate: false
+  xy: 1, 749
+  size: 348, 611
+  orig: 351, 611
+  offset: 3, 0
+  index: -1
+cloak2
+  rotate: true
+  xy: 540, 1527
+  size: 520, 504
+  orig: 525, 504
+  offset: 5, 0
+  index: -1
+ear_hone
+  rotate: false
+  xy: 911, 1071
+  size: 42, 26
+  orig: 42, 28
+  offset: 0, 2
+  index: -1
+eye
+  rotate: true
+  xy: 512, 164
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+eye_back
+  rotate: true
+  xy: 874, 763
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+eye_back_d
+  rotate: false
+  xy: 469, 140
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1, 1362
+  size: 537, 685
+  orig: 537, 685
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 965, 586
+  size: 147, 206
+  orig: 147, 206
+  offset: 0, 0
+  index: -1
+head_d
+  rotate: false
+  xy: 911, 1099
+  size: 197, 261
+  orig: 197, 261
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 351, 763
+  size: 206, 597
+  orig: 206, 597
+  offset: 0, 0
+  index: -1

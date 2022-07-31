@@ -1,0 +1,482 @@
+
+bu320_nw.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LL1
+  rotate: true
+  xy: 719, 380
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+LL2
+  rotate: true
+  xy: 757, 703
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+LL3
+  rotate: true
+  xy: 1127, 472
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+LL4
+  rotate: false
+  xy: 1038, 467
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+LU1
+  rotate: false
+  xy: 814, 386
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+LU2
+  rotate: true
+  xy: 1503, 811
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+LU3
+  rotate: true
+  xy: 1391, 413
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+LU4
+  rotate: false
+  xy: 1555, 812
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+L_arm1
+  rotate: true
+  xy: 314, 836
+  size: 186, 342
+  orig: 186, 342
+  offset: 0, 0
+  index: -1
+L_arm2
+  rotate: true
+  xy: 1635, 219
+  size: 205, 165
+  orig: 205, 165
+  offset: 0, 0
+  index: -1
+L_arm2_D_sw
+  rotate: false
+  xy: 1026, 194
+  size: 211, 212
+  orig: 211, 212
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: false
+  xy: 920, 23
+  size: 212, 90
+  orig: 212, 90
+  offset: 0, 0
+  index: -1
+L_foot2
+  rotate: true
+  xy: 1341, 419
+  size: 132, 48
+  orig: 135, 48
+  offset: 0, 0
+  index: -1
+L_foot3
+  rotate: true
+  xy: 1320, 906
+  size: 116, 52
+  orig: 116, 52
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 925, 869
+  size: 258, 153
+  orig: 258, 153
+  offset: 0, 0
+  index: -1
+L_hand_D_sw
+  rotate: false
+  xy: 1465, 426
+  size: 216, 165
+  orig: 216, 165
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: false
+  xy: 314, 704
+  size: 229, 130
+  orig: 229, 130
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: false
+  xy: 1647, 663
+  size: 194, 201
+  orig: 194, 201
+  offset: 0, 0
+  index: -1
+Larm1x
+  rotate: true
+  xy: 545, 700
+  size: 134, 210
+  orig: 134, 210
+  offset: 0, 0
+  index: -1
+Lbarrel
+  rotate: false
+  xy: 1, 352
+  size: 289, 346
+  orig: 289, 346
+  offset: 0, 0
+  index: -1
+Lcap
+  rotate: true
+  xy: 1440, 203
+  size: 208, 193
+  orig: 208, 193
+  offset: 0, 0
+  index: -1
+Llaserwire
+  rotate: true
+  xy: 1218, 412
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+Ltube
+  rotate: true
+  xy: 1391, 463
+  size: 88, 72
+  orig: 88, 72
+  offset: 0, 0
+  index: -1
+RL1
+  rotate: true
+  xy: 1083, 468
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+RL2
+  rotate: false
+  xy: 292, 355
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+RL3
+  rotate: false
+  xy: 1175, 471
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+RL4
+  rotate: true
+  xy: 566, 69
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+RU1
+  rotate: false
+  xy: 764, 385
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+RU2
+  rotate: true
+  xy: 1398, 806
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+RU3
+  rotate: false
+  xy: 1398, 866
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+RU4
+  rotate: false
+  xy: 1450, 810
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+R_arm pipe
+  rotate: false
+  xy: 1374, 924
+  size: 53, 98
+  orig: 53, 98
+  offset: 0, 0
+  index: -1
+R_arm1
+  rotate: true
+  xy: 1455, 866
+  size: 156, 248
+  orig: 156, 248
+  offset: 0, 0
+  index: -1
+R_arm2
+  rotate: true
+  xy: 802, 115
+  size: 268, 222
+  orig: 268, 222
+  offset: 0, 0
+  index: -1
+R_arm_wireL
+  rotate: false
+  xy: 283, 12
+  size: 90, 29
+  orig: 90, 29
+  offset: 0, 0
+  index: -1
+R_arm_wireR
+  rotate: false
+  xy: 586, 382
+  size: 131, 45
+  orig: 131, 45
+  offset: 0, 0
+  index: -1
+R_foot1
+  rotate: false
+  xy: 646, 11
+  size: 272, 86
+  orig: 272, 86
+  offset: 0, 0
+  index: -1
+R_foot2
+  rotate: false
+  xy: 1075, 412
+  size: 141, 53
+  orig: 150, 53
+  offset: 0, 0
+  index: -1
+R_foot3
+  rotate: false
+  xy: 1171, 128
+  size: 131, 64
+  orig: 131, 64
+  offset: 0, 0
+  index: -1
+R_leg1
+  rotate: false
+  xy: 757, 737
+  size: 234, 110
+  orig: 234, 110
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 1255, 553
+  size: 196, 216
+  orig: 196, 216
+  offset: 0, 0
+  index: -1
+R_tube
+  rotate: false
+  xy: 1284, 798
+  size: 112, 84
+  orig: 112, 84
+  offset: 0, 0
+  index: -1
+Rcap
+  rotate: false
+  xy: 1038, 514
+  size: 215, 224
+  orig: 215, 224
+  offset: 0, 0
+  index: -1
+Rcylinder
+  rotate: false
+  xy: 1, 700
+  size: 311, 322
+  orig: 311, 322
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 1185, 884
+  size: 133, 138
+  orig: 137, 142
+  offset: 4, 0
+  index: -1
+Rlaser
+  rotate: true
+  xy: 1355, 24
+  size: 113, 110
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+Rlaserwire
+  rotate: false
+  xy: 1139, 771
+  size: 143, 96
+  orig: 143, 96
+  offset: 0, 0
+  index: -1
+backbone
+  rotate: true
+  xy: 1674, 27
+  size: 190, 175
+  orig: 190, 175
+  offset: 0, 0
+  index: -1
+block
+  rotate: false
+  xy: 819, 465
+  size: 217, 270
+  orig: 217, 270
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 309, 69
+  size: 255, 284
+  orig: 255, 284
+  offset: 0, 0
+  index: -1
+fangx
+  rotate: false
+  xy: 1244, 8
+  size: 109, 118
+  orig: 109, 118
+  offset: 0, 0
+  index: -1
+finger1
+  rotate: false
+  xy: 993, 740
+  size: 144, 127
+  orig: 144, 127
+  offset: 0, 0
+  index: -1
+finger2
+  rotate: false
+  xy: 1026, 124
+  size: 143, 68
+  orig: 143, 68
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 292, 380
+  size: 318, 292
+  orig: 318, 292
+  offset: 0, 0
+  index: -1
+headx
+  rotate: true
+  xy: 1, 43
+  size: 307, 306
+  orig: 307, 306
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 1467, 35
+  size: 205, 166
+  orig: 205, 166
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 658, 849
+  size: 265, 173
+  orig: 265, 173
+  offset: 0, 0
+  index: -1
+jaw wire
+  rotate: false
+  xy: 862, 408
+  size: 211, 55
+  orig: 211, 55
+  offset: 0, 0
+  index: -1
+jaw wirex
+  rotate: false
+  xy: 1304, 139
+  size: 134, 53
+  orig: 134, 53
+  offset: 0, 0
+  index: -1
+jaw_back
+  rotate: true
+  xy: 1134, 2
+  size: 120, 108
+  orig: 120, 108
+  offset: 0, 0
+  index: -1
+jawx
+  rotate: true
+  xy: 1453, 593
+  size: 215, 192
+  orig: 215, 192
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 586, 429
+  size: 269, 231
+  orig: 269, 231
+  offset: 0, 0
+  index: -1
+neck wire
+  rotate: false
+  xy: 1, 1
+  size: 177, 40
+  orig: 177, 40
+  offset: 0, 0
+  index: -1
+neck wirex
+  rotate: false
+  xy: 180, 10
+  size: 101, 31
+  orig: 101, 31
+  offset: 0, 0
+  index: -1
+neckx
+  rotate: true
+  xy: 1683, 476
+  size: 185, 157
+  orig: 185, 157
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 566, 99
+  size: 279, 234
+  orig: 279, 234
+  offset: 0, 0
+  index: -1
+tail_plus
+  rotate: false
+  xy: 375, 17
+  size: 269, 50
+  orig: 269, 50
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 1239, 194
+  size: 199, 216
+  orig: 199, 216
+  offset: 0, 0
+  index: -1

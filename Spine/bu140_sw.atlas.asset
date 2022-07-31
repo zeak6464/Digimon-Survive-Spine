@@ -1,0 +1,20 @@
+
+bu140_sw.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_EyeL
+  rotate: false
+  xy: 158, 24
+  size: 106, 129
+  orig: 125, 153
+  offset: 9, 11
+  index: -1
+A_EyeR
+  rotate: false
+  xy: 2, 2
+  size: 154, 151
+  orig: 162, 157
+  offset: 4, 3
+  index: -1

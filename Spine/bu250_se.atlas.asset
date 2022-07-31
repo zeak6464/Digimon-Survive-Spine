@@ -1,0 +1,62 @@
+
+bu250_se.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_face_defense
+  rotate: false
+  xy: 1146, 339
+  size: 580, 102
+  orig: 664, 183
+  offset: 43, 43
+  index: -1
+f_face_stand
+  rotate: false
+  xy: 567, 295
+  size: 577, 146
+  orig: 658, 224
+  offset: 41, 41
+  index: -1
+f_face_weak
+  rotate: true
+  xy: 1728, 216
+  size: 225, 75
+  orig: 677, 288
+  offset: 49, 50
+  index: -1
+f_head_attack02
+  rotate: false
+  xy: 2, 275
+  size: 563, 166
+  orig: 868, 847
+  offset: 221, 313
+  index: -1
+f_head_jump01
+  rotate: false
+  xy: 1146, 232
+  size: 578, 105
+  orig: 797, 755
+  offset: 187, 295
+  index: -1
+f_head_jump02
+  rotate: false
+  xy: 1142, 86
+  size: 573, 144
+  orig: 827, 775
+  offset: 232, 271
+  index: -1
+f_head_run
+  rotate: false
+  xy: 2, 2
+  size: 572, 144
+  orig: 828, 776
+  offset: 234, 271
+  index: -1
+f_head_unique
+  rotate: false
+  xy: 567, 148
+  size: 573, 145
+  orig: 826, 775
+  offset: 228, 270
+  index: -1

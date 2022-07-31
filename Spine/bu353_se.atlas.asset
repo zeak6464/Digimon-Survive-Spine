@@ -1,0 +1,13 @@
+
+bu353_se.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 2
+  size: 614, 566
+  orig: 614, 566
+  offset: 0, 0
+  index: -1

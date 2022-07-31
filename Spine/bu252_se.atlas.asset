@@ -1,0 +1,13 @@
+
+bu252_se.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head01
+  rotate: false
+  xy: 2, 2
+  size: 91, 64
+  orig: 286, 272
+  offset: 179, 61
+  index: -1

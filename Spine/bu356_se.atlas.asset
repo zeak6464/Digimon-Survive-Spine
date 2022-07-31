@@ -1,0 +1,13 @@
+
+bu356_se.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 2
+  size: 234, 503
+  orig: 234, 504
+  offset: 0, 1
+  index: -1

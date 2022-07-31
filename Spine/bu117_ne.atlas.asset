@@ -1,0 +1,244 @@
+
+bu117_ne.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm forward
+  rotate: true
+  xy: 470, 79
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+armL
+  rotate: false
+  xy: 391, 87
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+armL2
+  rotate: false
+  xy: 413, 1
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 383, 41
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+armR weak
+  rotate: false
+  xy: 364, 2
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+armR2
+  rotate: true
+  xy: 451, 55
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 49, 1
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 114, 1
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 295, 74
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+earL end
+  rotate: true
+  xy: 470, 106
+  size: 21, 28
+  orig: 21, 31
+  offset: 0, 3
+  index: -1
+earR
+  rotate: true
+  xy: 168, 1
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+earR2
+  rotate: false
+  xy: 49, 50
+  size: 31, 77
+  orig: 31, 77
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 343, 5
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+eye hurt
+  rotate: true
+  xy: 448, 87
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+footL
+  rotate: true
+  xy: 433, 20
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+footR
+  rotate: true
+  xy: 448, 98
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+fur
+  rotate: true
+  xy: 414, 48
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+hand forward
+  rotate: true
+  xy: 234, 9
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+handL
+  rotate: true
+  xy: 362, 84
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+handL2
+  rotate: true
+  xy: 290, 18
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+handR
+  rotate: true
+  xy: 264, 73
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+handR weak
+  rotate: true
+  xy: 344, 36
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+handR2
+  rotate: false
+  xy: 222, 68
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 82, 58
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 152, 59
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+legL_1
+  rotate: false
+  xy: 331, 81
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+legR_1
+  rotate: false
+  xy: 385, 1
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+nikukyu L
+  rotate: true
+  xy: 344, 26
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+nikukyu R
+  rotate: true
+  xy: 304, 3
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+ring back
+  rotate: true
+  xy: 324, 3
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+ring front
+  rotate: false
+  xy: 474, 57
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 1, 8
+  size: 46, 119
+  orig: 46, 119
+  offset: 0, 0
+  index: -1
+whiskers
+  rotate: true
+  xy: 290, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+wrist forward
+  rotate: true
+  xy: 422, 97
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

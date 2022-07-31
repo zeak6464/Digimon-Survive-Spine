@@ -1,0 +1,41 @@
+
+bu143_se.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye light 1
+  rotate: true
+  xy: 517, 106
+  size: 128, 94
+  orig: 147, 114
+  offset: 9, 10
+  index: -1
+eye light 2
+  rotate: false
+  xy: 417, 2
+  size: 131, 97
+  orig: 159, 126
+  offset: 14, 14
+  index: -1
+eye light 3
+  rotate: true
+  xy: 417, 101
+  size: 133, 98
+  orig: 161, 127
+  offset: 14, 14
+  index: -1
+head 1 red
+  rotate: true
+  xy: 2, 17
+  size: 470, 413
+  orig: 470, 413
+  offset: 0, 0
+  index: -1
+head 2 red
+  rotate: false
+  xy: 417, 236
+  size: 230, 251
+  orig: 521, 327
+  offset: 219, 42
+  index: -1

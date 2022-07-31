@@ -1,0 +1,342 @@
+
+bu223_se.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tentacle_L
+  rotate: false
+  xy: 968, 436
+  size: 179, 203
+  orig: 181, 205
+  offset: 1, 1
+  index: -1
+Tentacle_R
+  rotate: false
+  xy: 785, 199
+  size: 313, 232
+  orig: 315, 232
+  offset: 1, 0
+  index: -1
+Upper body_01
+  rotate: false
+  xy: 586, 190
+  size: 197, 241
+  orig: 198, 243
+  offset: 1, 1
+  index: -1
+Upper body_02
+  rotate: true
+  xy: 1374, 470
+  size: 175, 173
+  orig: 177, 175
+  offset: 1, 1
+  index: -1
+Upper limbs_L
+  rotate: false
+  xy: 1519, 86
+  size: 123, 131
+  orig: 125, 134
+  offset: 1, 2
+  index: -1
+Upper limbs_R
+  rotate: false
+  xy: 179, 8
+  size: 115, 152
+  orig: 116, 153
+  offset: 0, 1
+  index: -1
+forearm_L_01
+  rotate: false
+  xy: 1494, 805
+  size: 51, 98
+  orig: 54, 100
+  offset: 2, 1
+  index: -1
+forearm_L_01_attack02
+  rotate: false
+  xy: 1380, 647
+  size: 48, 90
+  orig: 50, 92
+  offset: 1, 1
+  index: -1
+forearm_L_02
+  rotate: true
+  xy: 544, 18
+  size: 147, 317
+  orig: 149, 319
+  offset: 1, 1
+  index: -1
+forearm_L_02_attack02
+  rotate: false
+  xy: 1368, 739
+  size: 124, 283
+  orig: 126, 285
+  offset: 1, 1
+  index: -1
+forearm_R
+  rotate: true
+  xy: 863, 8
+  size: 189, 331
+  orig: 191, 333
+  offset: 1, 1
+  index: -1
+forearm_R_attack02
+  rotate: false
+  xy: 1026, 684
+  size: 196, 338
+  orig: 199, 340
+  offset: 1, 1
+  index: -1
+hair
+  rotate: false
+  xy: 798, 641
+  size: 226, 381
+  orig: 226, 381
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 1305, 647
+  size: 62, 73
+  orig: 64, 75
+  offset: 1, 1
+  index: -1
+hand_L_01_attack02
+  rotate: true
+  xy: 1242, 644
+  size: 65, 61
+  orig: 67, 63
+  offset: 1, 1
+  index: -1
+hand_L_01_defence
+  rotate: true
+  xy: 1343, 217
+  size: 62, 73
+  orig: 64, 75
+  offset: 1, 1
+  index: -1
+hand_L_02_attack02
+  rotate: true
+  xy: 1515, 648
+  size: 34, 56
+  orig: 36, 58
+  offset: 1, 1
+  index: -1
+hand_L_02_defence
+  rotate: true
+  xy: 1547, 848
+  size: 55, 54
+  orig: 57, 56
+  offset: 1, 1
+  index: -1
+hand_L_03_attack02
+  rotate: false
+  xy: 1503, 219
+  size: 92, 102
+  orig: 94, 104
+  offset: 1, 1
+  index: -1
+hand_L_03_defence_01
+  rotate: true
+  xy: 1430, 648
+  size: 89, 83
+  orig: 91, 85
+  offset: 1, 1
+  index: -1
+hand_L_03_defence_02
+  rotate: true
+  xy: 1552, 761
+  size: 45, 31
+  orig: 50, 33
+  offset: 1, 1
+  index: -1
+hand_R_01
+  rotate: false
+  xy: 1519, 2
+  size: 75, 82
+  orig: 78, 84
+  offset: 2, 1
+  index: -1
+hand_R_02
+  rotate: false
+  xy: 1418, 219
+  size: 56, 60
+  orig: 58, 62
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 2, 5
+  size: 155, 175
+  orig: 158, 176
+  offset: 1, 1
+  index: -1
+hip
+  rotate: true
+  xy: 1494, 905
+  size: 117, 91
+  orig: 120, 93
+  offset: 2, 1
+  index: -1
+joint_arm_L
+  rotate: true
+  xy: 1456, 283
+  size: 38, 45
+  orig: 41, 47
+  offset: 2, 1
+  index: -1
+joint_arm_R
+  rotate: true
+  xy: 1547, 808
+  size: 38, 34
+  orig: 40, 36
+  offset: 1, 1
+  index: -1
+joint_arm_R_attack02
+  rotate: false
+  xy: 1026, 641
+  size: 40, 41
+  orig: 42, 43
+  offset: 1, 1
+  index: -1
+joint_arm_R_attack02_back
+  rotate: false
+  xy: 1515, 684
+  size: 55, 57
+  orig: 57, 59
+  offset: 1, 1
+  index: -1
+joint_leg_L
+  rotate: false
+  xy: 1068, 642
+  size: 64, 40
+  orig: 66, 42
+  offset: 1, 1
+  index: -1
+joint_leg_R
+  rotate: false
+  xy: 1494, 743
+  size: 56, 60
+  orig: 58, 62
+  offset: 1, 1
+  index: -1
+lower limbs_L
+  rotate: false
+  xy: 1343, 281
+  size: 111, 180
+  orig: 111, 180
+  offset: 0, 0
+  index: -1
+lower limbs_R
+  rotate: false
+  xy: 1196, 4
+  size: 132, 201
+  orig: 133, 202
+  offset: 0, 1
+  index: -1
+mouth_damage
+  rotate: false
+  xy: 1134, 643
+  size: 52, 39
+  orig: 54, 41
+  offset: 1, 1
+  index: -1
+mouth_unique
+  rotate: false
+  xy: 1188, 643
+  size: 52, 39
+  orig: 54, 41
+  offset: 1, 1
+  index: -1
+pelvis_back
+  rotate: false
+  xy: 1596, 5
+  size: 102, 79
+  orig: 107, 88
+  offset: 1, 8
+  index: -1
+pelvis_front
+  rotate: false
+  xy: 1456, 323
+  size: 115, 145
+  orig: 118, 148
+  offset: 1, 2
+  index: -1
+spear
+  rotate: false
+  xy: 2, 162
+  size: 245, 860
+  orig: 247, 862
+  offset: 1, 1
+  index: -1
+spear_02
+  rotate: true
+  xy: 249, 433
+  size: 589, 547
+  orig: 589, 547
+  offset: 0, 0
+  index: -1
+toes_L
+  rotate: true
+  xy: 1100, 207
+  size: 227, 137
+  orig: 229, 139
+  offset: 1, 1
+  index: -1
+toes_R
+  rotate: false
+  xy: 798, 434
+  size: 168, 205
+  orig: 168, 205
+  offset: 0, 0
+  index: -1
+upper arm_L
+  rotate: true
+  xy: 1330, 23
+  size: 188, 187
+  orig: 190, 189
+  offset: 1, 1
+  index: -1
+upper arm_R
+  rotate: true
+  xy: 1149, 441
+  size: 200, 171
+  orig: 202, 174
+  offset: 1, 2
+  index: -1
+upper arm_R_attack02
+  rotate: true
+  xy: 296, 16
+  size: 149, 246
+  orig: 151, 248
+  offset: 1, 1
+  index: -1
+wing_L_01
+  rotate: false
+  xy: 1239, 213
+  size: 102, 226
+  orig: 104, 228
+  offset: 1, 1
+  index: -1
+wing_L_02
+  rotate: false
+  xy: 1322, 463
+  size: 50, 182
+  orig: 52, 184
+  offset: 1, 1
+  index: -1
+wing_R_01
+  rotate: true
+  xy: 249, 167
+  size: 264, 335
+  orig: 266, 337
+  offset: 1, 1
+  index: -1
+wing_R_02
+  rotate: false
+  xy: 1224, 711
+  size: 142, 311
+  orig: 144, 313
+  offset: 1, 1
+  index: -1

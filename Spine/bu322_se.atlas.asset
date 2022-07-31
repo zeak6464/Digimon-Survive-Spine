@@ -1,0 +1,538 @@
+
+bu322_se.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FL_leg_1
+  rotate: false
+  xy: 335, 365
+  size: 52, 146
+  orig: 52, 146
+  offset: 0, 0
+  index: -1
+F_L_arm_1
+  rotate: true
+  xy: 383, 241
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+F_L_foot
+  rotate: true
+  xy: 945, 26
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+F_L_foot_spike
+  rotate: true
+  xy: 253, 238
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+L_foot_spike
+  rotate: true
+  xy: 253, 238
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+F_L_leg_2
+  rotate: false
+  xy: 877, 400
+  size: 71, 111
+  orig: 71, 111
+  offset: 0, 0
+  index: -1
+F_R_arm_1
+  rotate: false
+  xy: 500, 105
+  size: 91, 134
+  orig: 91, 134
+  offset: 0, 0
+  index: -1
+F_R_leg1_back
+  rotate: false
+  xy: 1140, 349
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+F_R_leg_1
+  rotate: false
+  xy: 389, 372
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+F_R_leg_2
+  rotate: false
+  xy: 690, 377
+  size: 64, 134
+  orig: 64, 134
+  offset: 0, 0
+  index: -1
+F_bandana_back
+  rotate: true
+  xy: 335, 274
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+F_belt_L
+  rotate: true
+  xy: 49, 8
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+F_belt_R
+  rotate: true
+  xy: 330, 241
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+F_hip_belts
+  rotate: true
+  xy: 1099, 355
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+F_pistol_pocket_B
+  rotate: false
+  xy: 504, 242
+  size: 53, 128
+  orig: 53, 128
+  offset: 0, 0
+  index: -1
+F_pistol_pocket_F
+  rotate: false
+  xy: 887, 289
+  size: 51, 109
+  orig: 51, 109
+  offset: 0, 0
+  index: -1
+F_pocket_pistol
+  rotate: false
+  xy: 892, 181
+  size: 40, 106
+  orig: 40, 106
+  offset: 0, 0
+  index: -1
+L_arm_1
+  rotate: true
+  xy: 756, 389
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+L_arm_2
+  rotate: true
+  xy: 943, 118
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: true
+  xy: 1025, 26
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 1047, 349
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+L_hand_fingers
+  rotate: false
+  xy: 1105, 36
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+L_hand_indexfinger
+  rotate: true
+  xy: 427, 65
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+L_hand_thumb
+  rotate: true
+  xy: 831, 117
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+L_leg_1
+  rotate: false
+  xy: 372, 93
+  size: 53, 146
+  orig: 53, 146
+  offset: 0, 0
+  index: -1
+L_leg_1_B
+  rotate: false
+  xy: 998, 291
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+L_leg_2
+  rotate: false
+  xy: 831, 154
+  size: 59, 111
+  orig: 59, 111
+  offset: 0, 0
+  index: -1
+L_leg_knee
+  rotate: false
+  xy: 1105, 3
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+L_pistol
+  rotate: false
+  xy: 253, 274
+  size: 80, 237
+  orig: 80, 237
+  offset: 0, 0
+  index: -1
+L_pistol_grip
+  rotate: false
+  xy: 1079, 296
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+L_pistol_trigger
+  rotate: true
+  xy: 93, 10
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+R_arm_1
+  rotate: false
+  xy: 593, 108
+  size: 91, 134
+  orig: 91, 134
+  offset: 0, 0
+  index: -1
+R_arm_2
+  rotate: false
+  xy: 427, 104
+  size: 71, 135
+  orig: 71, 135
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: false
+  xy: 998, 329
+  size: 47, 87
+  orig: 47, 87
+  offset: 0, 0
+  index: -1
+R_foot_spike
+  rotate: false
+  xy: 1140, 379
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 934, 189
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+R_leg1_back
+  rotate: true
+  xy: 1148, 38
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+R_leg_1
+  rotate: false
+  xy: 493, 372
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+R_leg_2
+  rotate: false
+  xy: 597, 377
+  size: 91, 134
+  orig: 91, 134
+  offset: 0, 0
+  index: -1
+R_leg_2_pocket
+  rotate: false
+  xy: 1046, 291
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+R_leg_knee
+  rotate: true
+  xy: 1105, 85
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+R_pistol
+  rotate: false
+  xy: 186, 47
+  size: 70, 189
+  orig: 70, 189
+  offset: 0, 0
+  index: -1
+R_wire_1
+  rotate: true
+  xy: 641, 2
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+R_wire_2
+  rotate: true
+  xy: 186, 1
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+atack_arm_2
+  rotate: true
+  xy: 689, 2
+  size: 113, 75
+  orig: 113, 75
+  offset: 0, 0
+  index: -1
+atk_arm_1
+  rotate: true
+  xy: 559, 244
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+atk_claw
+  rotate: true
+  xy: 508, 5
+  size: 98, 131
+  orig: 98, 131
+  offset: 0, 0
+  index: -1
+attack_gun_L
+  rotate: true
+  xy: 1, 28
+  size: 208, 92
+  orig: 208, 92
+  offset: 0, 0
+  index: -1
+attack_gun_R
+  rotate: true
+  xy: 95, 29
+  size: 207, 89
+  orig: 207, 89
+  offset: 0, 0
+  index: -1
+bandana_back
+  rotate: true
+  xy: 891, 117
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+belt_L
+  rotate: true
+  xy: 130, 13
+  size: 14, 54
+  orig: 14, 54
+  offset: 0, 0
+  index: -1
+belt_R
+  rotate: true
+  xy: 298, 240
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+eye_hurt
+  rotate: true
+  xy: 1, 1
+  size: 25, 26
+  orig: 27, 29
+  offset: 0, 3
+  index: -1
+face_tube_L
+  rotate: false
+  xy: 468, 3
+  size: 38, 99
+  orig: 38, 99
+  offset: 0, 0
+  index: -1
+face_tube_R
+  rotate: false
+  xy: 940, 302
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1
+fur_L
+  rotate: false
+  xy: 1164, 448
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+fur_R
+  rotate: false
+  xy: 1103, 446
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+fur_back
+  rotate: true
+  xy: 766, 3
+  size: 112, 85
+  orig: 112, 85
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 787, 267
+  size: 98, 120
+  orig: 98, 120
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 1003, 210
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+hip_belts
+  rotate: true
+  xy: 1081, 226
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+jacket_L
+  rotate: false
+  xy: 773, 127
+  size: 56, 123
+  orig: 56, 123
+  offset: 0, 0
+  index: -1
+jacket_R
+  rotate: false
+  xy: 686, 117
+  size: 85, 132
+  orig: 85, 132
+  offset: 0, 0
+  index: -1
+jacket_back
+  rotate: true
+  xy: 692, 252
+  size: 123, 93
+  orig: 123, 93
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 335, 317
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 853, 6
+  size: 90, 109
+  orig: 90, 109
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 85, 9
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+open_mouth
+  rotate: true
+  xy: 29, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+pocket_pistol
+  rotate: false
+  xy: 649, 251
+  size: 41, 124
+  orig: 41, 124
+  offset: 0, 0
+  index: -1
+run_foot_L
+  rotate: true
+  xy: 270, 1
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
+run_foot_R
+  rotate: true
+  xy: 362, 1
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
+sp_fingers
+  rotate: false
+  xy: 1040, 134
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+sp_hand
+  rotate: false
+  xy: 1015, 425
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+sp_palm
+  rotate: false
+  xy: 950, 418
+  size: 63, 93
+  orig: 63, 93
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 1, 238
+  size: 273, 250
+  orig: 273, 250
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 258, 65
+  size: 112, 171
+  orig: 112, 171
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,461 @@
+
+bu320_sw.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: true
+  xy: 536, 467
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 491, 466
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 577, 472
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 613, 129
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 318, 104
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 652, 480
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 614, 477
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+24
+  rotate: true
+  xy: 657, 130
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+L_arm1_sp
+  rotate: false
+  xy: 840, 822
+  size: 172, 200
+  orig: 172, 200
+  offset: 0, 0
+  index: -1
+L_arm2 _sp
+  rotate: false
+  xy: 424, 129
+  size: 187, 252
+  orig: 187, 252
+  offset: 0, 0
+  index: -1
+L_arm2_D
+  rotate: true
+  xy: 663, 771
+  size: 251, 175
+  orig: 251, 175
+  offset: 0, 0
+  index: -1
+L_barrel
+  rotate: false
+  xy: 613, 164
+  size: 197, 235
+  orig: 197, 235
+  offset: 0, 0
+  index: -1
+L_cap
+  rotate: true
+  xy: 1006, 210
+  size: 202, 199
+  orig: 202, 199
+  offset: 0, 0
+  index: -1
+L_cylinder
+  rotate: true
+  xy: 356, 383
+  size: 81, 131
+  orig: 81, 131
+  offset: 0, 0
+  index: -1
+L_elbow_sp
+  rotate: false
+  xy: 1386, 653
+  size: 104, 109
+  orig: 104, 109
+  offset: 0, 0
+  index: -1
+L_elbowtube_sp
+  rotate: false
+  xy: 1439, 386
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+L_front redwire
+  rotate: true
+  xy: 1345, 464
+  size: 128, 119
+  orig: 128, 119
+  offset: 0, 0
+  index: -1
+L_laser
+  rotate: true
+  xy: 1173, 869
+  size: 153, 146
+  orig: 153, 146
+  offset: 0, 0
+  index: -1
+L_leg finger1
+  rotate: false
+  xy: 1376, 336
+  size: 61, 126
+  orig: 61, 126
+  offset: 0, 0
+  index: -1
+L_leg finger2
+  rotate: true
+  xy: 766, 405
+  size: 93, 114
+  orig: 93, 114
+  offset: 0, 0
+  index: -1
+L_leg finger3
+  rotate: true
+  xy: 1475, 800
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
+Larm1
+  rotate: true
+  xy: 1133, 434
+  size: 134, 210
+  orig: 134, 210
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 1, 379
+  size: 188, 334
+  orig: 188, 334
+  offset: 0, 0
+  index: -1
+Larm_wire
+  rotate: false
+  xy: 1376, 259
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 1264, 594
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 883, 514
+  size: 166, 206
+  orig: 166, 206
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: false
+  xy: 1093, 724
+  size: 130, 111
+  orig: 130, 111
+  offset: 0, 0
+  index: -1
+Lleg3
+  rotate: false
+  xy: 1361, 764
+  size: 112, 126
+  orig: 112, 126
+  offset: 0, 0
+  index: -1
+R_arm2_D
+  rotate: true
+  xy: 486, 761
+  size: 261, 175
+  orig: 265, 180
+  offset: 2, 2
+  index: -1
+R_barrel
+  rotate: false
+  xy: 687, 500
+  size: 194, 214
+  orig: 194, 214
+  offset: 0, 0
+  index: -1
+R_bolt1
+  rotate: true
+  xy: 385, 101
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+R_bolt2
+  rotate: true
+  xy: 355, 99
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+R_cap
+  rotate: false
+  xy: 885, 1
+  size: 197, 185
+  orig: 197, 185
+  offset: 0, 0
+  index: -1
+R_cylinder
+  rotate: true
+  xy: 882, 414
+  size: 84, 126
+  orig: 84, 126
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: false
+  xy: 459, 12
+  size: 236, 115
+  orig: 236, 115
+  offset: 0, 0
+  index: -1
+R_hand_D
+  rotate: true
+  xy: 1, 82
+  size: 295, 212
+  orig: 295, 212
+  offset: 0, 0
+  index: -1
+R_laser
+  rotate: false
+  xy: 1321, 892
+  size: 120, 130
+  orig: 120, 130
+  offset: 0, 0
+  index: -1
+R_leg1
+  rotate: false
+  xy: 697, 24
+  size: 186, 104
+  orig: 186, 104
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 840, 722
+  size: 150, 98
+  orig: 150, 98
+  offset: 0, 0
+  index: -1
+R_leg3
+  rotate: true
+  xy: 1010, 427
+  size: 85, 121
+  orig: 85, 121
+  offset: 0, 0
+  index: -1
+R_redwire
+  rotate: true
+  xy: 191, 383
+  size: 81, 163
+  orig: 81, 163
+  offset: 0, 0
+  index: -1
+R_toe1
+  rotate: false
+  xy: 489, 401
+  size: 140, 63
+  orig: 140, 63
+  offset: 0, 0
+  index: -1
+R_toe2
+  rotate: false
+  xy: 631, 409
+  size: 133, 66
+  orig: 133, 66
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 309, 715
+  size: 175, 307
+  orig: 175, 307
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 1051, 570
+  size: 211, 151
+  orig: 211, 151
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 426, 519
+  size: 259, 194
+  orig: 259, 194
+  offset: 0, 0
+  index: -1
+Rleg_knee
+  rotate: false
+  xy: 992, 723
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+armwire_sp
+  rotate: true
+  xy: 1554, 926
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+backredwire
+  rotate: false
+  xy: 1, 4
+  size: 139, 76
+  orig: 139, 76
+  offset: 0, 0
+  index: -1
+bar1
+  rotate: true
+  xy: 426, 466
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+bar2
+  rotate: true
+  xy: 812, 132
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+cannon block
+  rotate: true
+  xy: 1084, 20
+  size: 188, 213
+  orig: 188, 213
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 191, 466
+  size: 233, 247
+  orig: 233, 247
+  offset: 0, 0
+  index: -1
+claw1
+  rotate: true
+  xy: 282, 1
+  size: 96, 175
+  orig: 96, 175
+  offset: 0, 0
+  index: -1
+claw2
+  rotate: true
+  xy: 1225, 724
+  size: 143, 134
+  orig: 204, 197
+  offset: 27, 33
+  index: -1
+claw3
+  rotate: true
+  xy: 142, 4
+  size: 76, 138
+  orig: 76, 138
+  offset: 0, 0
+  index: -1
+fang
+  rotate: false
+  xy: 1443, 904
+  size: 109, 118
+  orig: 109, 118
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1, 715
+  size: 307, 306
+  orig: 307, 306
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 1207, 248
+  size: 184, 167
+  orig: 184, 167
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 812, 188
+  size: 215, 192
+  orig: 215, 192
+  offset: 0, 0
+  index: -1
+jaw wire
+  rotate: false
+  xy: 663, 716
+  size: 134, 53
+  orig: 134, 53
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1014, 837
+  size: 185, 157
+  orig: 185, 157
+  offset: 0, 0
+  index: -1
+neck wire
+  rotate: false
+  xy: 215, 99
+  size: 101, 31
+  orig: 101, 31
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 215, 132
+  size: 207, 249
+  orig: 207, 249
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 1299, 55
+  size: 191, 157
+  orig: 191, 157
+  offset: 0, 0
+  index: -1

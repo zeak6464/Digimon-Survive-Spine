@@ -1,0 +1,13 @@
+
+bu353_ne.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Inside_head
+  rotate: false
+  xy: 2, 2
+  size: 447, 582
+  orig: 447, 582
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+bu350_nw.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: true
+  xy: 2, 2
+  size: 33, 69
+  orig: 34, 73
+  offset: 1, 2
+  index: -1

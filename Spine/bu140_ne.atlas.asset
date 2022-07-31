@@ -1,0 +1,13 @@
+
+bu140_ne.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_EyeR
+  rotate: false
+  xy: 2, 2
+  size: 70, 119
+  orig: 87, 140
+  offset: 8, 11
+  index: -1

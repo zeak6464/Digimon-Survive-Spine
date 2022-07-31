@@ -1,0 +1,20 @@
+
+bu251_se.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UpperJaw
+  rotate: true
+  xy: 2, 7
+  size: 47, 37
+  orig: 681, 395
+  offset: 268, 131
+  index: -1
+up_UpperJaw
+  rotate: false
+  xy: 41, 2
+  size: 32, 52
+  orig: 379, 542
+  offset: 137, 159
+  index: -1

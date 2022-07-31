@@ -1,0 +1,20 @@
+
+bu351_se.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head_top_a
+  rotate: true
+  xy: 659, 496
+  size: 102, 93
+  orig: 520, 749
+  offset: 239, 253
+  index: -1
+head_top_b
+  rotate: false
+  xy: 2, 2
+  size: 655, 596
+  orig: 655, 596
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+bu355_nw.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tail1
+  rotate: false
+  xy: 2, 2
+  size: 220, 447
+  orig: 222, 449
+  offset: 1, 1
+  index: -1

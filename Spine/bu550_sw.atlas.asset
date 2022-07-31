@@ -1,0 +1,13 @@
+
+bu550_sw.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: false
+  xy: 1, 1
+  size: 279, 103
+  orig: 348, 277
+  offset: 69, 86
+  index: -1

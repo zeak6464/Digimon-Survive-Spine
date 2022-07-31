@@ -1,0 +1,41 @@
+
+bu142_ne.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Eye
+  rotate: false
+  xy: 1153, 476
+  size: 114, 117
+  orig: 118, 120
+  offset: 0, 0
+  index: -1
+B_Eye
+  rotate: true
+  xy: 1153, 272
+  size: 85, 86
+  orig: 105, 106
+  offset: 10, 10
+  index: -1
+C_Eye
+  rotate: false
+  xy: 1153, 359
+  size: 31, 115
+  orig: 81, 165
+  offset: 25, 25
+  index: -1
+F_Eye
+  rotate: true
+  xy: 1186, 392
+  size: 82, 83
+  orig: 102, 103
+  offset: 10, 10
+  index: -1
+H_HeadT_a
+  rotate: true
+  xy: 2, 2
+  size: 591, 1149
+  orig: 591, 1149
+  offset: 0, 0
+  index: -1

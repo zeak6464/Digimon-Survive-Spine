@@ -1,0 +1,13 @@
+
+bu144_ne.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_foot_finger3
+  rotate: false
+  xy: 2, 2
+  size: 34, 39
+  orig: 36, 42
+  offset: 1, 1
+  index: -1

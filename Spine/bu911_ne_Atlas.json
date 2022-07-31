@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "bu911_ne_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 8547170174541055537
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2931238635055156993
+    }
+  ]
+}

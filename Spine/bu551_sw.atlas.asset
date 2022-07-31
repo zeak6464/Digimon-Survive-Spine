@@ -1,0 +1,20 @@
+
+bu551_sw.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mask
+  rotate: false
+  xy: 271, 189
+  size: 56, 78
+  orig: 269, 268
+  offset: 212, 119
+  index: -1
+mask_2
+  rotate: false
+  xy: 1, 1
+  size: 268, 266
+  orig: 270, 268
+  offset: 1, 1
+  index: -1

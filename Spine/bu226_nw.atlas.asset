@@ -1,0 +1,314 @@
+
+bu226_nw.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_ankle
+  rotate: false
+  xy: 1177, 2
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 1131, 41
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+L_arm_unique
+  rotate: true
+  xy: 1599, 50
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+L_elbow_attack02_2
+  rotate: false
+  xy: 556, 29
+  size: 63, 98
+  orig: 66, 98
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 1794, 58
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+L_hand1_attack01
+  rotate: true
+  xy: 1730, 57
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 1229, 1
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+L_leg_toes
+  rotate: false
+  xy: 620, 7
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+L_shoulder
+  rotate: false
+  xy: 851, 32
+  size: 73, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+L_swordhand
+  rotate: false
+  xy: 1202, 47
+  size: 161, 80
+  orig: 161, 82
+  offset: 0, 0
+  index: -1
+L_thighs
+  rotate: false
+  xy: 1793, 2
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+R_ankle
+  rotate: false
+  xy: 1719, 4
+  size: 72, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+R_arm_attack02_1
+  rotate: false
+  xy: 1365, 47
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+R_arm_attack02_2
+  rotate: true
+  xy: 1928, 2
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+R_arm_run
+  rotate: false
+  xy: 318, 12
+  size: 64, 115
+  orig: 64, 115
+  offset: 0, 0
+  index: -1
+R_arm_unique
+  rotate: false
+  xy: 621, 31
+  size: 132, 96
+  orig: 132, 96
+  offset: 0, 0
+  index: -1
+R_eae_1
+  rotate: true
+  xy: 465, 2
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+R_earring1
+  rotate: true
+  xy: 242, 1
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+R_earring2
+  rotate: false
+  xy: 526, 6
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+R_elbow
+  rotate: true
+  xy: 926, 35
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+R_elbow2
+  rotate: true
+  xy: 1002, 35
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+R_elbow_belt_attack02
+  rotate: true
+  xy: 1669, 3
+  size: 50, 48
+  orig: 55, 48
+  offset: 5, 0
+  index: -1
+R_hand_attack01
+  rotate: true
+  xy: 1863, 58
+  size: 69, 63
+  orig: 69, 65
+  offset: 0, 1
+  index: -1
+R_hand_belt1
+  rotate: true
+  xy: 1131, 1
+  size: 38, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+R_hand_instep
+  rotate: false
+  xy: 1415, 49
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 1928, 65
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+R_leg_toes
+  rotate: false
+  xy: 1078, 3
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+R_shoulder
+  rotate: false
+  xy: 384, 15
+  size: 79, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+R_thighs
+  rotate: true
+  xy: 1484, 49
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+beard
+  rotate: true
+  xy: 1546, 49
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 111, 8
+  size: 119, 129
+  orig: 119, 129
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: true
+  xy: 926, 1
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: true
+  xy: 582, 2
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1599, 1
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 465, 21
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+hair_up
+  rotate: true
+  xy: 755, 32
+  size: 95, 94
+  orig: 95, 97
+  offset: 0, 2
+  index: -1
+sword_2
+  rotate: true
+  xy: 1078, 38
+  size: 89, 51
+  orig: 89, 51
+  offset: 0, 0
+  index: -1
+sword_attack02_1
+  rotate: true
+  xy: 650, 1
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+sword_attack02_2
+  rotate: false
+  xy: 1, 7
+  size: 108, 120
+  orig: 108, 120
+  offset: 0, 0
+  index: -1
+sword_grip
+  rotate: false
+  xy: 1280, 6
+  size: 56, 39
+  orig: 112, 62
+  offset: 0, 23
+  index: -1
+tail
+  rotate: true
+  xy: 242, 12
+  size: 115, 74
+  orig: 115, 74
+  offset: 0, 0
+  index: -1
+tail_02
+  rotate: false
+  xy: 502, 5
+  size: 22, 14
+  orig: 115, 74
+  offset: 93, 50
+  index: -1
+waist
+  rotate: true
+  xy: 1669, 55
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+waist_tailfront
+  rotate: true
+  xy: 556, 1
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1

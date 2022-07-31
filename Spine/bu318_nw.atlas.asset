@@ -1,0 +1,440 @@
+
+bu318_nw.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_Wing2
+  rotate: false
+  xy: 2, 1293
+  size: 620, 753
+  orig: 620, 753
+  offset: 0, 0
+  index: -1
+Coat
+  rotate: false
+  xy: 2, 564
+  size: 250, 727
+  orig: 252, 801
+  offset: 1, 37
+  index: -1
+Hat_Middle
+  rotate: false
+  xy: 779, 1448
+  size: 104, 86
+  orig: 106, 88
+  offset: 1, 1
+  index: -1
+Hat_back
+  rotate: true
+  xy: 1135, 1032
+  size: 263, 167
+  orig: 265, 169
+  offset: 1, 1
+  index: -1
+Hat_feather
+  rotate: true
+  xy: 1281, 284
+  size: 83, 232
+  orig: 83, 232
+  offset: 0, 0
+  index: -1
+Hat_front
+  rotate: true
+  xy: 1135, 1711
+  size: 335, 188
+  orig: 369, 208
+  offset: 33, 1
+  index: -1
+Head
+  rotate: true
+  xy: 624, 1701
+  size: 174, 259
+  orig: 174, 259
+  offset: 0, 0
+  index: -1
+Hip_Belt1
+  rotate: false
+  xy: 578, 6
+  size: 84, 51
+  orig: 86, 53
+  offset: 1, 1
+  index: -1
+Hip_Belt2
+  rotate: true
+  xy: 1318, 1489
+  size: 91, 72
+  orig: 93, 75
+  offset: 1, 2
+  index: -1
+L_Arm
+  rotate: true
+  xy: 1004, 853
+  size: 148, 402
+  orig: 153, 402
+  offset: 0, 0
+  index: -1
+L_Arm_attack02
+  rotate: false
+  xy: 1391, 632
+  size: 322, 219
+  orig: 322, 219
+  offset: 0, 0
+  index: -1
+L_Arm_under 2
+  rotate: false
+  xy: 1684, 3
+  size: 226, 133
+  orig: 228, 135
+  offset: 1, 1
+  index: -1
+L_Arm_under 3
+  rotate: true
+  xy: 484, 3
+  size: 54, 92
+  orig: 57, 94
+  offset: 1, 1
+  index: -1
+L_Hand
+  rotate: false
+  xy: 885, 1530
+  size: 82, 183
+  orig: 85, 198
+  offset: 1, 14
+  index: -1
+L_Hand_2
+  rotate: true
+  xy: 987, 1388
+  size: 147, 125
+  orig: 147, 125
+  offset: 0, 0
+  index: -1
+L_Hand_3
+  rotate: true
+  xy: 987, 1537
+  size: 161, 116
+  orig: 163, 119
+  offset: 1, 2
+  index: -1
+L_Leg
+  rotate: false
+  xy: 1135, 1409
+  size: 181, 300
+  orig: 181, 300
+  offset: 0, 0
+  index: -1
+L_Leg2
+  rotate: false
+  xy: 388, 2
+  size: 94, 55
+  orig: 96, 57
+  offset: 1, 1
+  index: -1
+L_Pistol_attack02
+  rotate: false
+  xy: 1304, 1190
+  size: 153, 217
+  orig: 155, 219
+  offset: 1, 1
+  index: -1
+L_Shoulder_up
+  rotate: false
+  xy: 987, 1700
+  size: 120, 166
+  orig: 122, 168
+  offset: 1, 1
+  index: -1
+L_Sword
+  rotate: true
+  xy: 588, 1003
+  size: 288, 545
+  orig: 290, 547
+  offset: 1, 1
+  index: -1
+L_Thigh
+  rotate: false
+  xy: 1399, 1498
+  size: 174, 322
+  orig: 174, 372
+  offset: 0, 19
+  index: -1
+L_Wing2
+  rotate: true
+  xy: 760, 253
+  size: 311, 519
+  orig: 311, 519
+  offset: 0, 0
+  index: -1
+L_hand_attack01
+  rotate: true
+  xy: 885, 1715
+  size: 160, 97
+  orig: 163, 100
+  offset: 1, 2
+  index: -1
+L_hand_attack02
+  rotate: false
+  xy: 1015, 19
+  size: 150, 127
+  orig: 152, 131
+  offset: 1, 1
+  index: -1
+L_hand_unique
+  rotate: false
+  xy: 831, 1296
+  size: 154, 111
+  orig: 156, 113
+  offset: 1, 1
+  index: -1
+L_wing_born1
+  rotate: true
+  xy: 624, 1435
+  size: 93, 153
+  orig: 95, 155
+  offset: 1, 1
+  index: -1
+L_wing_born2
+  rotate: true
+  xy: 1304, 1006
+  size: 182, 180
+  orig: 184, 182
+  offset: 1, 1
+  index: -1
+L_wing_born3
+  rotate: true
+  xy: 388, 59
+  size: 74, 370
+  orig: 76, 372
+  offset: 1, 1
+  index: -1
+L_wing_born4
+  rotate: false
+  xy: 941, 148
+  size: 228, 103
+  orig: 230, 105
+  offset: 1, 1
+  index: -1
+R_Arm_attack02
+  rotate: false
+  xy: 1408, 1822
+  size: 293, 224
+  orig: 293, 224
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 987, 1297
+  size: 89, 179
+  orig: 91, 182
+  offset: 1, 1
+  index: -1
+R_Leg
+  rotate: true
+  xy: 1684, 138
+  size: 229, 351
+  orig: 229, 366
+  offset: 0, 0
+  index: -1
+R_Leg2
+  rotate: false
+  xy: 753, 17
+  size: 91, 40
+  orig: 93, 42
+  offset: 1, 1
+  index: -1
+R_Pistol
+  rotate: false
+  xy: 1912, 25
+  size: 86, 111
+  orig: 89, 113
+  offset: 2, 1
+  index: -1
+R_Pistol2
+  rotate: false
+  xy: 1325, 1674
+  size: 69, 132
+  orig: 71, 135
+  offset: 1, 1
+  index: -1
+R_Pistol_attack02
+  rotate: true
+  xy: 624, 1536
+  size: 163, 211
+  orig: 165, 213
+  offset: 1, 1
+  index: -1
+R_Sword
+  rotate: true
+  xy: 773, 593
+  size: 254, 616
+  orig: 256, 618
+  offset: 1, 1
+  index: -1
+R_Sword_2
+  rotate: true
+  xy: 254, 566
+  size: 219, 517
+  orig: 221, 519
+  offset: 1, 1
+  index: -1
+R_Sword_handle_1
+  rotate: false
+  xy: 1318, 1582
+  size: 75, 90
+  orig: 77, 92
+  offset: 1, 1
+  index: -1
+R_Sword_handle_2
+  rotate: true
+  xy: 664, 8
+  size: 49, 87
+  orig: 51, 89
+  offset: 1, 1
+  index: -1
+R_Thigh
+  rotate: true
+  xy: 624, 1877
+  size: 169, 315
+  orig: 169, 315
+  offset: 0, 0
+  index: -1
+R_Wing
+  rotate: false
+  xy: 254, 787
+  size: 332, 504
+  orig: 332, 504
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 588, 849
+  size: 152, 414
+  orig: 152, 420
+  offset: 0, 6
+  index: -1
+R_arm_under
+  rotate: true
+  xy: 699, 141
+  size: 110, 240
+  orig: 112, 252
+  offset: 1, 11
+  index: -1
+R_arm_upper
+  rotate: true
+  xy: 624, 1315
+  size: 92, 205
+  orig: 94, 207
+  offset: 1, 1
+  index: -1
+R_hand_attack02
+  rotate: false
+  xy: 1408, 868
+  size: 127, 136
+  orig: 129, 138
+  offset: 1, 1
+  index: -1
+R_hand_unique
+  rotate: false
+  xy: 1515, 253
+  size: 158, 114
+  orig: 160, 116
+  offset: 1, 1
+  index: -1
+R_shoulder_under
+  rotate: false
+  xy: 885, 1444
+  size: 98, 84
+  orig: 100, 86
+  offset: 1, 1
+  index: -1
+R_shoulder_up
+  rotate: true
+  xy: 1619, 1376
+  size: 174, 153
+  orig: 178, 155
+  offset: 1, 1
+  index: -1
+R_shoulder_up_2
+  rotate: true
+  xy: 1486, 1139
+  size: 173, 162
+  orig: 176, 164
+  offset: 1, 1
+  index: -1
+R_sword_attack01
+  rotate: true
+  xy: 1171, 40
+  size: 211, 511
+  orig: 213, 513
+  offset: 1, 1
+  index: -1
+R_sword_ne
+  rotate: false
+  xy: 2, 135
+  size: 416, 427
+  orig: 418, 429
+  offset: 1, 1
+  index: -1
+R_wing_born1
+  rotate: false
+  xy: 1325, 1808
+  size: 72, 238
+  orig: 74, 240
+  offset: 1, 1
+  index: -1
+R_wing_born2
+  rotate: false
+  xy: 987, 1868
+  size: 136, 178
+  orig: 138, 182
+  offset: 1, 3
+  index: -1
+R_wing_born3
+  rotate: true
+  xy: 2, 18
+  size: 115, 384
+  orig: 117, 386
+  offset: 1, 1
+  index: -1
+R_wing_born4
+  rotate: false
+  xy: 760, 68
+  size: 253, 71
+  orig: 255, 73
+  offset: 1, 1
+  index: -1
+Skull_back_L
+  rotate: false
+  xy: 1715, 1813
+  size: 284, 233
+  orig: 286, 237
+  offset: 1, 1
+  index: -1
+Skull_back_R
+  rotate: true
+  xy: 1459, 1314
+  size: 182, 158
+  orig: 184, 160
+  offset: 1, 1
+  index: -1
+Tail1
+  rotate: true
+  xy: 1281, 369
+  size: 222, 449
+  orig: 222, 449
+  offset: 0, 0
+  index: -1
+Tail2
+  rotate: false
+  xy: 420, 140
+  size: 277, 424
+  orig: 277, 424
+  offset: 0, 0
+  index: -1
+Tail_hook
+  rotate: false
+  xy: 1575, 1552
+  size: 137, 268
+  orig: 139, 391
+  offset: 1, 121
+  index: -1

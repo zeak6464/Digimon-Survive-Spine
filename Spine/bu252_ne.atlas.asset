@@ -1,0 +1,13 @@
+
+bu252_ne.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_leg_01_2
+  rotate: false
+  xy: 2, 2
+  size: 70, 75
+  orig: 72, 77
+  offset: 1, 1
+  index: -1

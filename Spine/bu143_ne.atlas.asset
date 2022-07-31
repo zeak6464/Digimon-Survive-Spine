@@ -1,0 +1,20 @@
+
+bu143_ne.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head1
+  rotate: true
+  xy: 533, 286
+  size: 45, 44
+  orig: 507, 356
+  offset: 290, 172
+  index: -1
+head2
+  rotate: false
+  xy: 2, 2
+  size: 529, 329
+  orig: 529, 329
+  offset: 0, 0
+  index: -1

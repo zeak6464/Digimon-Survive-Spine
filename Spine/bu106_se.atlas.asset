@@ -1,0 +1,363 @@
+
+bu106_se.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Body_ArmL
+  rotate: false
+  xy: 2, 2
+  size: 610, 773
+  orig: 610, 773
+  offset: 0, 0
+  index: -1
+A_Body_ArmR
+  rotate: true
+  xy: 1390, 2920
+  size: 642, 1032
+  orig: 642, 1032
+  offset: 0, 0
+  index: -1
+A_Body_Breast
+  rotate: true
+  xy: 949, 2603
+  size: 472, 409
+  orig: 472, 409
+  offset: 0, 0
+  index: -1
+A_Body_Neck
+  rotate: false
+  xy: 3596, 1638
+  size: 491, 406
+  orig: 491, 406
+  offset: 0, 0
+  index: -1
+A_Body_Waist
+  rotate: true
+  xy: 2144, 868
+  size: 530, 510
+  orig: 531, 511
+  offset: 0, 1
+  index: -1
+A_HeadBT
+  rotate: true
+  xy: 3596, 2046
+  size: 748, 494
+  orig: 750, 495
+  offset: 1, 1
+  index: -1
+A_HeadT
+  rotate: false
+  xy: 1300, 796
+  size: 842, 602
+  orig: 852, 603
+  offset: 9, 1
+  index: -1
+A_Head_Eye
+  rotate: true
+  xy: 2424, 2772
+  size: 150, 163
+  orig: 150, 163
+  offset: 0, 0
+  index: -1
+A_Head_Tentacle_1
+  rotate: false
+  xy: 857, 1237
+  size: 257, 219
+  orig: 257, 219
+  offset: 0, 0
+  index: -1
+A_Head_Tentacle_10
+  rotate: false
+  xy: 1116, 980
+  size: 140, 256
+  orig: 155, 256
+  offset: 13, 0
+  index: -1
+A_Head_Tentacle_2
+  rotate: false
+  xy: 3743, 3542
+  size: 294, 152
+  orig: 294, 152
+  offset: 0, 0
+  index: -1
+A_Head_Tentacle_3
+  rotate: false
+  xy: 899, 1458
+  size: 261, 211
+  orig: 261, 211
+  offset: 0, 0
+  index: -1
+A_Head_Tentacle_4
+  rotate: false
+  xy: 1162, 1415
+  size: 151, 230
+  orig: 151, 230
+  offset: 0, 0
+  index: -1
+A_Head_Tentacle_5
+  rotate: true
+  xy: 2302, 2108
+  size: 360, 268
+  orig: 360, 269
+  offset: 0, 0
+  index: -1
+A_Head_Tentacle_6
+  rotate: false
+  xy: 949, 2376
+  size: 391, 225
+  orig: 391, 225
+  offset: 0, 0
+  index: -1
+A_Head_Tentacle_7
+  rotate: false
+  xy: 857, 1033
+  size: 250, 202
+  orig: 250, 208
+  offset: 0, 6
+  index: -1
+A_Head_Tentacle_8
+  rotate: true
+  xy: 2290, 1908
+  size: 198, 266
+  orig: 222, 273
+  offset: 24, 0
+  index: -1
+A_Head_Tentacle_9
+  rotate: false
+  xy: 1116, 1238
+  size: 182, 175
+  orig: 197, 197
+  offset: 15, 0
+  index: -1
+A_Shell_Base1
+  rotate: false
+  xy: 2, 3077
+  size: 1386, 981
+  orig: 1387, 983
+  offset: 1, 1
+  index: -1
+A_Shell_Base2
+  rotate: false
+  xy: 2596, 3425
+  size: 1145, 633
+  orig: 1145, 633
+  offset: 0, 0
+  index: -1
+A_Shell_Base3
+  rotate: false
+  xy: 2, 777
+  size: 853, 716
+  orig: 865, 716
+  offset: 12, 0
+  index: -1
+A_Shell_Base4
+  rotate: false
+  xy: 1992, 98
+  size: 525, 696
+  orig: 525, 696
+  offset: 0, 0
+  index: -1
+A_Shell_Entrance
+  rotate: false
+  xy: 1349, 76
+  size: 641, 718
+  orig: 641, 734
+  offset: 0, 0
+  index: -1
+B_Head_Eye
+  rotate: true
+  xy: 2424, 3066
+  size: 132, 169
+  orig: 133, 169
+  offset: 0, 0
+  index: -1
+C_Body_Entrance
+  rotate: true
+  xy: 3630, 2796
+  size: 433, 462
+  orig: 437, 462
+  offset: 2, 0
+  index: -1
+C_Head_Tentacle_1
+  rotate: false
+  xy: 3630, 3318
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+C_Head_Tentacle_2
+  rotate: false
+  xy: 2302, 2818
+  size: 120, 100
+  orig: 150, 110
+  offset: 0, 10
+  index: -1
+C_Head_Tentacle_3
+  rotate: true
+  xy: 4022, 3285
+  size: 125, 72
+  orig: 125, 72
+  offset: 0, 0
+  index: -1
+C_Head_Tentacle_4
+  rotate: true
+  xy: 4031, 3412
+  size: 128, 61
+  orig: 128, 69
+  offset: 0, 0
+  index: -1
+C_Head_Tentacle_5
+  rotate: false
+  xy: 2302, 2717
+  size: 120, 99
+  orig: 120, 105
+  offset: 0, 6
+  index: -1
+C_Head_Tentacle_6
+  rotate: true
+  xy: 2204, 2102
+  size: 121, 84
+  orig: 121, 84
+  offset: 0, 0
+  index: -1
+D_Body_ArmL
+  rotate: true
+  xy: 614, 31
+  size: 744, 733
+  orig: 744, 733
+  offset: 0, 0
+  index: -1
+D_Body_ArmR
+  rotate: true
+  xy: 2590, 2035
+  size: 956, 1004
+  orig: 957, 1004
+  offset: 0, 0
+  index: -1
+E_Body_ArmL
+  rotate: true
+  xy: 2596, 2993
+  size: 430, 1032
+  orig: 430, 1032
+  offset: 0, 0
+  index: -1
+E_Body_ArmR
+  rotate: true
+  xy: 1390, 3564
+  size: 494, 1204
+  orig: 494, 1204
+  offset: 0, 0
+  index: -1
+F_HeadBT
+  rotate: true
+  xy: 1360, 2225
+  size: 693, 940
+  orig: 741, 942
+  offset: 0, 1
+  index: -1
+F_HeadT
+  rotate: true
+  xy: 2, 2359
+  size: 716, 945
+  orig: 717, 945
+  offset: 0, 0
+  index: -1
+F_Head_Eye
+  rotate: false
+  xy: 857, 804
+  size: 117, 227
+  orig: 119, 228
+  offset: 1, 0
+  index: -1
+F_Head_Tentacle_1
+  rotate: true
+  xy: 3743, 3231
+  size: 225, 277
+  orig: 225, 277
+  offset: 0, 0
+  index: -1
+F_Head_Tentacle_10
+  rotate: false
+  xy: 2424, 2924
+  size: 164, 140
+  orig: 164, 140
+  offset: 0, 0
+  index: -1
+F_Head_Tentacle_2
+  rotate: true
+  xy: 3743, 3852
+  size: 95, 339
+  orig: 101, 339
+  offset: 0, 0
+  index: -1
+F_Head_Tentacle_3
+  rotate: true
+  xy: 3743, 3696
+  size: 154, 318
+  orig: 154, 318
+  offset: 0, 0
+  index: -1
+F_Head_Tentacle_4
+  rotate: false
+  xy: 3743, 3949
+  size: 341, 109
+  orig: 341, 109
+  offset: 0, 0
+  index: -1
+F_Head_Tentacle_5
+  rotate: true
+  xy: 2424, 3200
+  size: 362, 170
+  orig: 362, 170
+  offset: 0, 0
+  index: -1
+F_Head_Tentacle_6
+  rotate: false
+  xy: 899, 1671
+  size: 264, 233
+  orig: 264, 249
+  offset: 0, 0
+  index: -1
+F_Head_Tentacle_7
+  rotate: true
+  xy: 2302, 2470
+  size: 245, 276
+  orig: 245, 276
+  offset: 0, 0
+  index: -1
+F_Head_Tentacle_8
+  rotate: true
+  xy: 3743, 3458
+  size: 82, 286
+  orig: 84, 286
+  offset: 0, 0
+  index: -1
+F_Head_Tentacle_9
+  rotate: false
+  xy: 1165, 1647
+  size: 142, 257
+  orig: 142, 258
+  offset: 0, 0
+  index: -1
+G_Body_ArmL
+  rotate: true
+  xy: 1315, 1400
+  size: 823, 887
+  orig: 823, 913
+  offset: 0, 26
+  index: -1
+G_Body_ArmR
+  rotate: false
+  xy: 2, 1495
+  size: 895, 862
+  orig: 895, 862
+  offset: 0, 0
+  index: -1
+I_Body_Neck
+  rotate: true
+  xy: 949, 1906
+  size: 468, 364
+  orig: 468, 364
+  offset: 0, 0
+  index: -1

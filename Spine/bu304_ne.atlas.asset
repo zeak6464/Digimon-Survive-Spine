@@ -1,0 +1,293 @@
+
+bu304_ne.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_01
+  rotate: false
+  xy: 2, 1390
+  size: 544, 654
+  orig: 544, 654
+  offset: 0, 0
+  index: -1
+Body_02
+  rotate: true
+  xy: 548, 1568
+  size: 476, 373
+  orig: 476, 373
+  offset: 0, 0
+  index: -1
+Body_03
+  rotate: false
+  xy: 2, 798
+  size: 488, 590
+  orig: 488, 590
+  offset: 0, 0
+  index: -1
+DorsalFin_01
+  rotate: true
+  xy: 590, 9
+  size: 105, 201
+  orig: 105, 201
+  offset: 0, 0
+  index: -1
+DorsalFin_02
+  rotate: true
+  xy: 1073, 1604
+  size: 101, 147
+  orig: 101, 147
+  offset: 0, 0
+  index: -1
+DorsalFin_03
+  rotate: false
+  xy: 2, 12
+  size: 207, 78
+  orig: 207, 78
+  offset: 0, 0
+  index: -1
+Fin_L_01
+  rotate: false
+  xy: 402, 25
+  size: 186, 65
+  orig: 186, 65
+  offset: 0, 0
+  index: -1
+Fin_L_02
+  rotate: true
+  xy: 923, 1581
+  size: 124, 148
+  orig: 124, 148
+  offset: 0, 0
+  index: -1
+Fin_R_01
+  rotate: false
+  xy: 947, 321
+  size: 151, 54
+  orig: 151, 57
+  offset: 0, 3
+  index: -1
+Fin_R_02
+  rotate: true
+  xy: 211, 23
+  size: 67, 189
+  orig: 67, 189
+  offset: 0, 0
+  index: -1
+Hair_01
+  rotate: false
+  xy: 795, 128
+  size: 276, 161
+  orig: 276, 161
+  offset: 0, 0
+  index: -1
+Hair_02
+  rotate: true
+  xy: 1254, 1796
+  size: 248, 203
+  orig: 248, 203
+  offset: 0, 0
+  index: -1
+Hair_03
+  rotate: false
+  xy: 978, 10
+  size: 254, 116
+  orig: 254, 116
+  offset: 0, 0
+  index: -1
+Hair_04
+  rotate: true
+  xy: 945, 1074
+  size: 329, 272
+  orig: 329, 272
+  offset: 0, 0
+  index: -1
+Head_01
+  rotate: true
+  xy: 1073, 175
+  size: 144, 305
+  orig: 144, 305
+  offset: 0, 0
+  index: -1
+Head_02
+  rotate: true
+  xy: 548, 1398
+  size: 168, 245
+  orig: 168, 245
+  offset: 0, 0
+  index: -1
+Head_03
+  rotate: true
+  xy: 1234, 7
+  size: 166, 249
+  orig: 166, 249
+  offset: 0, 0
+  index: -1
+Head_04
+  rotate: true
+  xy: 1149, 631
+  size: 206, 152
+  orig: 206, 152
+  offset: 0, 0
+  index: -1
+Head_05
+  rotate: true
+  xy: 1159, 894
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+Head_06
+  rotate: false
+  xy: 993, 413
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+Head_07
+  rotate: false
+  xy: 1380, 198
+  size: 180, 145
+  orig: 180, 145
+  offset: 0, 0
+  index: -1
+LowerJaw_01
+  rotate: false
+  xy: 945, 839
+  size: 212, 233
+  orig: 212, 233
+  offset: 0, 0
+  index: -1
+LowerJaw_02
+  rotate: false
+  xy: 795, 1405
+  size: 255, 161
+  orig: 255, 161
+  offset: 0, 0
+  index: -1
+LowerJaw_03
+  rotate: false
+  xy: 492, 836
+  size: 125, 54
+  orig: 125, 54
+  offset: 0, 0
+  index: -1
+PectoralFins_L_ 01
+  rotate: false
+  xy: 2, 92
+  size: 447, 171
+  orig: 447, 171
+  offset: 0, 0
+  index: -1
+PectoralFins_L_02
+  rotate: true
+  xy: 793, 2
+  size: 112, 183
+  orig: 112, 183
+  offset: 0, 0
+  index: -1
+PectoralFins_R_01
+  rotate: false
+  xy: 993, 603
+  size: 154, 234
+  orig: 154, 234
+  offset: 0, 0
+  index: -1
+PectoralFins_R_02
+  rotate: false
+  xy: 450, 280
+  size: 222, 95
+  orig: 222, 95
+  offset: 0, 0
+  index: -1
+SmallFin_L_01
+  rotate: true
+  xy: 674, 291
+  size: 84, 120
+  orig: 84, 120
+  offset: 0, 0
+  index: -1
+SmallFin_L_02
+  rotate: true
+  xy: 1175, 336
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+SmallFin_L_03
+  rotate: false
+  xy: 1281, 345
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+SmallFin_R_01
+  rotate: true
+  xy: 1485, 96
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+Tail_01
+  rotate: true
+  xy: 492, 892
+  size: 496, 451
+  orig: 496, 451
+  offset: 0, 0
+  index: -1
+Tail_02
+  rotate: false
+  xy: 2, 265
+  size: 446, 531
+  orig: 446, 531
+  offset: 0, 0
+  index: -1
+Tongue_01
+  rotate: false
+  xy: 796, 320
+  size: 149, 55
+  orig: 149, 55
+  offset: 0, 0
+  index: -1
+Tube_01
+  rotate: false
+  xy: 1052, 1422
+  size: 257, 157
+  orig: 257, 157
+  offset: 0, 0
+  index: -1
+Tube_02
+  rotate: true
+  xy: 450, 377
+  size: 419, 541
+  orig: 419, 541
+  offset: 0, 0
+  index: -1
+UpperJaw_01
+  rotate: true
+  xy: 451, 116
+  size: 162, 342
+  orig: 162, 342
+  offset: 0, 0
+  index: -1
+UpperJaw_02
+  rotate: true
+  xy: 1175, 446
+  size: 183, 147
+  orig: 183, 147
+  offset: 0, 0
+  index: -1
+UpperJaw_03
+  rotate: true
+  xy: 923, 1707
+  size: 337, 329
+  orig: 337, 329
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 1222, 1585
+  size: 105, 120
+  orig: 105, 120
+  offset: 0, 0
+  index: -1

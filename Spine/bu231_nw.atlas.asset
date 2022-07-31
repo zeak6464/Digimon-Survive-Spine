@@ -1,0 +1,391 @@
+
+bu231_nw.png
+size: 8192,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 2694, 3031
+  size: 441, 1063
+  orig: 441, 1063
+  offset: 0, 0
+  index: -1
+L_blade
+  rotate: false
+  xy: 1045, 2783
+  size: 431, 1311
+  orig: 431, 1311
+  offset: 0, 0
+  index: -1
+L_claw_01
+  rotate: false
+  xy: 4332, 1170
+  size: 157, 316
+  orig: 157, 316
+  offset: 0, 0
+  index: -1
+L_claw_02
+  rotate: false
+  xy: 4285, 1488
+  size: 159, 274
+  orig: 159, 274
+  offset: 0, 0
+  index: -1
+L_claw_03
+  rotate: true
+  xy: 820, 673
+  size: 138, 295
+  orig: 138, 295
+  offset: 0, 0
+  index: -1
+L_finger_01
+  rotate: false
+  xy: 2560, 1079
+  size: 64, 88
+  orig: 64, 89
+  offset: 0, 1
+  index: -1
+L_finger_02
+  rotate: false
+  xy: 1409, 678
+  size: 92, 133
+  orig: 92, 133
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: true
+  xy: 1348, 2
+  size: 674, 504
+  orig: 674, 504
+  offset: 0, 0
+  index: -1
+L_leg_01
+  rotate: false
+  xy: 3742, 80
+  size: 562, 629
+  orig: 562, 629
+  offset: 0, 0
+  index: -1
+L_leg_02
+  rotate: true
+  xy: 3020, 693
+  size: 474, 570
+  orig: 474, 570
+  offset: 0, 0
+  index: -1
+L_nail_01
+  rotate: false
+  xy: 1790, 818
+  size: 219, 225
+  orig: 219, 225
+  offset: 0, 0
+  index: -1
+L_nail_02
+  rotate: false
+  xy: 3291, 2843
+  size: 202, 207
+  orig: 202, 207
+  offset: 0, 0
+  index: -1
+L_nail_03
+  rotate: false
+  xy: 4491, 1292
+  size: 202, 207
+  orig: 202, 207
+  offset: 0, 0
+  index: -1
+L_root
+  rotate: true
+  xy: 2965, 2819
+  size: 210, 324
+  orig: 211, 324
+  offset: 1, 0
+  index: -1
+L_shoulder_01
+  rotate: false
+  xy: 1854, 11
+  size: 433, 673
+  orig: 433, 673
+  offset: 0, 0
+  index: -1
+L_shoulder_02
+  rotate: false
+  xy: 1045, 2227
+  size: 361, 554
+  orig: 361, 554
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 2560, 1169
+  size: 694, 1126
+  orig: 694, 1126
+  offset: 0, 0
+  index: -1
+R_arm_add
+  rotate: false
+  xy: 1544, 1045
+  size: 1014, 1229
+  orig: 1014, 1229
+  offset: 0, 0
+  index: -1
+R_blade
+  rotate: false
+  xy: 2, 666
+  size: 507, 1557
+  orig: 507, 1557
+  offset: 0, 0
+  index: -1
+R_blade_add
+  rotate: false
+  xy: 511, 813
+  size: 1031, 1410
+  orig: 1031, 1410
+  offset: 0, 0
+  index: -1
+R_claw_01
+  rotate: true
+  xy: 4343, 2528
+  size: 262, 320
+  orig: 262, 320
+  offset: 0, 0
+  index: -1
+R_claw_02
+  rotate: true
+  xy: 1604, 686
+  size: 126, 294
+  orig: 126, 294
+  offset: 0, 0
+  index: -1
+R_claw_03
+  rotate: true
+  xy: 1117, 678
+  size: 133, 290
+  orig: 133, 290
+  offset: 0, 0
+  index: -1
+R_finger_01
+  rotate: false
+  xy: 1900, 706
+  size: 83, 110
+  orig: 83, 110
+  offset: 0, 0
+  index: -1
+R_finger_02
+  rotate: true
+  xy: 3137, 3052
+  size: 124, 172
+  orig: 124, 172
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: false
+  xy: 2380, 2297
+  size: 817, 502
+  orig: 817, 502
+  offset: 0, 0
+  index: -1
+R_leg_01
+  rotate: false
+  xy: 571, 9
+  size: 775, 656
+  orig: 775, 656
+  offset: 0, 0
+  index: -1
+R_leg_02
+  rotate: false
+  xy: 2, 2
+  size: 567, 662
+  orig: 567, 662
+  offset: 0, 0
+  index: -1
+R_nail_01
+  rotate: false
+  xy: 4332, 908
+  size: 249, 260
+  orig: 249, 260
+  offset: 0, 0
+  index: -1
+R_nail_02
+  rotate: false
+  xy: 4446, 1501
+  size: 246, 261
+  orig: 246, 261
+  offset: 0, 0
+  index: -1
+R_nail_03
+  rotate: true
+  xy: 1544, 814
+  size: 229, 244
+  orig: 229, 244
+  offset: 0, 0
+  index: -1
+R_root_01
+  rotate: false
+  xy: 3199, 2363
+  size: 258, 454
+  orig: 258, 454
+  offset: 0, 0
+  index: -1
+R_root_02
+  rotate: true
+  xy: 4537, 739
+  size: 167, 152
+  orig: 168, 152
+  offset: 0, 0
+  index: -1
+R_shoulder_01
+  rotate: true
+  xy: 1408, 2276
+  size: 505, 970
+  orig: 505, 970
+  offset: 0, 0
+  index: -1
+R_shoulder_02
+  rotate: false
+  xy: 4017, 1764
+  size: 437, 715
+  orig: 437, 715
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 4306, 108
+  size: 601, 395
+  orig: 601, 395
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 3941, 2481
+  size: 400, 738
+  orig: 400, 738
+  offset: 0, 0
+  index: -1
+body_parts_01
+  rotate: true
+  xy: 2011, 690
+  size: 353, 1007
+  orig: 353, 1007
+  offset: 0, 0
+  index: -1
+body_parts_02
+  rotate: false
+  xy: 3137, 3178
+  size: 400, 916
+  orig: 400, 916
+  offset: 0, 0
+  index: -1
+body_upper
+  rotate: true
+  xy: 3256, 1456
+  size: 905, 759
+  orig: 905, 759
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 2289, 20
+  size: 715, 668
+  orig: 715, 668
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 4017, 1480
+  size: 282, 266
+  orig: 282, 266
+  offset: 0, 0
+  index: -1
+head_add
+  rotate: true
+  xy: 3539, 3221
+  size: 873, 840
+  orig: 873, 840
+  offset: 0, 0
+  index: -1
+head_armor_01
+  rotate: false
+  xy: 3495, 2395
+  size: 444, 781
+  orig: 444, 781
+  offset: 0, 0
+  index: -1
+head_armor_02
+  rotate: false
+  xy: 4343, 2792
+  size: 199, 427
+  orig: 199, 427
+  offset: 0, 0
+  index: -1
+mouth_add
+  rotate: false
+  xy: 3256, 1169
+  size: 371, 285
+  orig: 371, 285
+  offset: 0, 0
+  index: -1
+mouth_upper
+  rotate: true
+  xy: 2694, 2809
+  size: 220, 269
+  orig: 220, 269
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 3006, 45
+  size: 734, 643
+  orig: 734, 643
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 2225
+  size: 1041, 1869
+  orig: 1041, 1869
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 1503, 683
+  size: 99, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+tooth_under_01
+  rotate: true
+  xy: 4332, 736
+  size: 170, 203
+  orig: 170, 203
+  offset: 0, 0
+  index: -1
+tooth_upper_01
+  rotate: true
+  xy: 689, 672
+  size: 139, 129
+  orig: 139, 129
+  offset: 0, 0
+  index: -1
+tooth_upper_02
+  rotate: false
+  xy: 511, 667
+  size: 176, 144
+  orig: 176, 144
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 3629, 711
+  size: 743, 701
+  orig: 743, 701
+  offset: 0, 0
+  index: -1
+wire
+  rotate: false
+  xy: 1478, 2801
+  size: 1214, 1293
+  orig: 1214, 1293
+  offset: 0, 0
+  index: -1

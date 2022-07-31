@@ -1,0 +1,20 @@
+
+bu141_se.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head_01A
+  rotate: true
+  xy: 2, 2
+  size: 414, 540
+  orig: 414, 541
+  offset: 0, 1
+  index: -1
+head_02C
+  rotate: false
+  xy: 2, 418
+  size: 481, 479
+  orig: 483, 480
+  offset: 0, 0
+  index: -1

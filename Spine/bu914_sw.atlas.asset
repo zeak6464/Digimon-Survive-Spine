@@ -1,0 +1,13 @@
+
+bu914_sw.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+falldown_ne
+  rotate: false
+  xy: 1, 1
+  size: 478, 338
+  orig: 478, 338
+  offset: 0, 0
+  index: -1

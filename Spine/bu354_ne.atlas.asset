@@ -1,0 +1,20 @@
+
+bu354_ne.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_eye
+  rotate: false
+  xy: 2, 2
+  size: 67, 65
+  orig: 93, 91
+  offset: 14, 13
+  index: -1
+eye
+  rotate: false
+  xy: 2, 69
+  size: 68, 76
+  orig: 95, 102
+  offset: 13, 13
+  index: -1

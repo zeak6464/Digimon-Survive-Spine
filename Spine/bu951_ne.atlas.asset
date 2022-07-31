@@ -1,0 +1,55 @@
+
+bu951_ne.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1, 2
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+ear2_left
+  rotate: true
+  xy: 144, 7
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+ear2_right
+  rotate: true
+  xy: 77, 7
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+ear_left
+  rotate: false
+  xy: 254, 1
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+ear_left2
+  rotate: true
+  xy: 231, 18
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+ear_right
+  rotate: false
+  xy: 254, 31
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ear_right2
+  rotate: true
+  xy: 198, 19
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1

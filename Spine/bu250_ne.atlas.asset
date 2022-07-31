@@ -1,0 +1,13 @@
+
+bu250_ne.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_zipper_skill
+  rotate: false
+  xy: 2, 2
+  size: 143, 100
+  orig: 145, 102
+  offset: 1, 1
+  index: -1

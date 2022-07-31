@@ -1,0 +1,34 @@
+
+bu352_se.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Face_EyeR_a
+  rotate: false
+  xy: 1159, 584
+  size: 90, 112
+  orig: 111, 136
+  offset: 11, 12
+  index: -1
+A_Face_EyeR_b
+  rotate: false
+  xy: 1159, 698
+  size: 92, 122
+  orig: 112, 146
+  offset: 10, 13
+  index: -1
+G_Head
+  rotate: true
+  xy: 1159, 822
+  size: 244, 160
+  orig: 1276, 1064
+  offset: 770, 697
+  index: -1
+I_Head_a
+  rotate: false
+  xy: 2, 2
+  size: 1155, 1064
+  orig: 1155, 1064
+  offset: 0, 0
+  index: -1

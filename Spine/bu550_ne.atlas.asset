@@ -1,0 +1,13 @@
+
+bu550_ne.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: true
+  xy: 1, 1
+  size: 42, 74
+  orig: 284, 261
+  offset: 221, 76
+  index: -1

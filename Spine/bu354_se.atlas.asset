@@ -1,0 +1,20 @@
+
+bu354_se.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_eye
+  rotate: false
+  xy: 2, 2
+  size: 89, 87
+  orig: 112, 107
+  offset: 12, 9
+  index: -1
+R_eye
+  rotate: true
+  xy: 93, 2
+  size: 87, 91
+  orig: 109, 109
+  offset: 13, 9
+  index: -1

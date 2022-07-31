@@ -1,0 +1,356 @@
+
+bu311_ne.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_01
+  rotate: true
+  xy: 981, 3
+  size: 64, 122
+  orig: 64, 122
+  offset: 0, 0
+  index: -1
+L_arm_02
+  rotate: false
+  xy: 867, 884
+  size: 133, 137
+  orig: 133, 137
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 982, 514
+  size: 128, 104
+  orig: 128, 104
+  offset: 0, 0
+  index: -1
+L_leg_01
+  rotate: true
+  xy: 700, 503
+  size: 84, 157
+  orig: 84, 157
+  offset: 0, 0
+  index: -1
+L_leg_02
+  rotate: true
+  xy: 727, 231
+  size: 97, 155
+  orig: 97, 155
+  offset: 0, 0
+  index: -1
+L_leg_02_under
+  rotate: true
+  xy: 1105, 36
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+L_leg_03
+  rotate: false
+  xy: 1051, 236
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+L_leg_04
+  rotate: true
+  xy: 370, 220
+  size: 53, 119
+  orig: 53, 119
+  offset: 0, 0
+  index: -1
+L_shoulder
+  rotate: true
+  xy: 761, 600
+  size: 147, 159
+  orig: 147, 159
+  offset: 0, 0
+  index: -1
+L_waist
+  rotate: false
+  xy: 743, 852
+  size: 122, 169
+  orig: 122, 169
+  offset: 0, 0
+  index: -1
+L_wing_01
+  rotate: true
+  xy: 230, 585
+  size: 144, 336
+  orig: 144, 336
+  offset: 0, 0
+  index: -1
+L_wing_02
+  rotate: false
+  xy: 1, 731
+  size: 256, 290
+  orig: 256, 290
+  offset: 0, 0
+  index: -1
+L_wing_03
+  rotate: false
+  xy: 507, 330
+  size: 267, 160
+  orig: 267, 160
+  offset: 0, 0
+  index: -1
+L_wing_04
+  rotate: true
+  xy: 259, 785
+  size: 236, 137
+  orig: 236, 137
+  offset: 0, 0
+  index: -1
+L_wing_05
+  rotate: true
+  xy: 569, 840
+  size: 181, 172
+  orig: 181, 172
+  offset: 0, 0
+  index: -1
+R_arm_01
+  rotate: true
+  xy: 859, 523
+  size: 75, 121
+  orig: 75, 121
+  offset: 0, 0
+  index: -1
+R_arm_02
+  rotate: false
+  xy: 776, 379
+  size: 212, 122
+  orig: 212, 122
+  offset: 0, 0
+  index: -1
+R_arm_02_a
+  rotate: true
+  xy: 398, 831
+  size: 190, 169
+  orig: 190, 169
+  offset: 0, 0
+  index: -1
+R_arm_02_b
+  rotate: false
+  xy: 884, 239
+  size: 165, 138
+  orig: 165, 138
+  offset: 0, 0
+  index: -1
+R_arm_02_c
+  rotate: true
+  xy: 922, 620
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1
+R_finger_01
+  rotate: true
+  xy: 507, 276
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+R_finger_02
+  rotate: true
+  xy: 1, 6
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+R_finger_03
+  rotate: true
+  xy: 139, 10
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+R_finger_04
+  rotate: true
+  xy: 210, 10
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+R_finger_05
+  rotate: true
+  xy: 275, 11
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 1073, 133
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+R_hand_a
+  rotate: false
+  xy: 990, 403
+  size: 106, 109
+  orig: 106, 109
+  offset: 0, 0
+  index: -1
+R_hand_b
+  rotate: true
+  xy: 1005, 803
+  size: 104, 101
+  orig: 104, 101
+  offset: 0, 0
+  index: -1
+R_hand_c
+  rotate: false
+  xy: 721, 749
+  size: 146, 89
+  orig: 146, 89
+  offset: 0, 0
+  index: -1
+R_leg_01
+  rotate: true
+  xy: 534, 500
+  size: 83, 164
+  orig: 83, 164
+  offset: 0, 0
+  index: -1
+R_leg_02
+  rotate: true
+  xy: 561, 225
+  size: 103, 164
+  orig: 103, 164
+  offset: 0, 0
+  index: -1
+R_leg_02_under
+  rotate: true
+  xy: 1051, 303
+  size: 98, 90
+  orig: 98, 90
+  offset: 0, 0
+  index: -1
+R_leg_03
+  rotate: true
+  xy: 1098, 410
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+R_leg_03_under
+  rotate: false
+  xy: 491, 216
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+R_leg_04
+  rotate: true
+  xy: 221, 214
+  size: 59, 147
+  orig: 59, 147
+  offset: 0, 0
+  index: -1
+R_shoulder
+  rotate: true
+  xy: 568, 589
+  size: 155, 191
+  orig: 155, 191
+  offset: 0, 0
+  index: -1
+R_waist
+  rotate: true
+  xy: 838, 69
+  size: 160, 233
+  orig: 160, 233
+  offset: 0, 0
+  index: -1
+R_wing_01
+  rotate: true
+  xy: 1, 46
+  size: 158, 328
+  orig: 158, 328
+  offset: 0, 0
+  index: -1
+R_wing_02
+  rotate: false
+  xy: 221, 275
+  size: 284, 182
+  orig: 284, 182
+  offset: 0, 0
+  index: -1
+R_wing_03
+  rotate: false
+  xy: 331, 44
+  size: 306, 168
+  orig: 306, 168
+  offset: 0, 0
+  index: -1
+R_wing_04
+  rotate: true
+  xy: 1, 459
+  size: 270, 227
+  orig: 270, 227
+  offset: 0, 0
+  index: -1
+R_wing_05
+  rotate: false
+  xy: 1, 206
+  size: 218, 251
+  orig: 218, 251
+  offset: 0, 0
+  index: -1
+back
+  rotate: true
+  xy: 555, 746
+  size: 83, 164
+  orig: 83, 164
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 639, 15
+  size: 208, 197
+  orig: 208, 197
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 869, 750
+  size: 132, 134
+  orig: 132, 134
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 76, 1
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+neck_armor
+  rotate: false
+  xy: 1002, 909
+  size: 148, 112
+  orig: 148, 112
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 398, 732
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+waist_cloth
+  rotate: true
+  xy: 230, 492
+  size: 91, 302
+  orig: 91, 302
+  offset: 0, 0
+  index: -1
+waist_guard
+  rotate: true
+  xy: 838, 6
+  size: 61, 141
+  orig: 61, 141
+  offset: 0, 0
+  index: -1

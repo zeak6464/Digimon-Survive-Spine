@@ -1,0 +1,146 @@
+
+bu104_nw.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 1270, 307
+  size: 187, 203
+  orig: 187, 203
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 1, 1
+  size: 170, 137
+  orig: 170, 137
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1, 140
+  size: 285, 370
+  orig: 287, 374
+  offset: 1, 2
+  index: -1
+eye_01
+  rotate: true
+  xy: 885, 170
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+eye_02
+  rotate: true
+  xy: 845, 164
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+eye_03
+  rotate: true
+  xy: 933, 171
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+foot_L
+  rotate: true
+  xy: 1258, 28
+  size: 226, 97
+  orig: 228, 97
+  offset: 1, 0
+  index: -1
+foot_R
+  rotate: true
+  xy: 697, 9
+  size: 150, 76
+  orig: 150, 76
+  offset: 0, 0
+  index: -1
+hand_L_top
+  rotate: true
+  xy: 845, 219
+  size: 291, 224
+  orig: 291, 224
+  offset: 0, 0
+  index: -1
+hand_L_under
+  rotate: false
+  xy: 456, 7
+  size: 239, 151
+  orig: 239, 151
+  offset: 0, 0
+  index: -1
+hand_R_top
+  rotate: false
+  xy: 891, 1
+  size: 260, 167
+  orig: 260, 167
+  offset: 0, 0
+  index: -1
+hand_R_under
+  rotate: true
+  xy: 1153, 18
+  size: 236, 103
+  orig: 236, 104
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1071, 256
+  size: 254, 197
+  orig: 258, 197
+  offset: 2, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 173, 3
+  size: 116, 135
+  orig: 116, 135
+  offset: 0, 0
+  index: -1
+shin_L
+  rotate: true
+  xy: 775, 10
+  size: 149, 114
+  orig: 149, 114
+  offset: 0, 0
+  index: -1
+shin_R
+  rotate: false
+  xy: 1357, 51
+  size: 118, 124
+  orig: 118, 125
+  offset: 0, 0
+  index: -1
+tail_L
+  rotate: false
+  xy: 540, 161
+  size: 303, 349
+  orig: 303, 349
+  offset: 0, 0
+  index: -1
+tail_R
+  rotate: true
+  xy: 288, 160
+  size: 350, 250
+  orig: 350, 250
+  offset: 0, 0
+  index: -1
+thigh_L
+  rotate: false
+  xy: 291, 5
+  size: 163, 153
+  orig: 163, 153
+  offset: 0, 0
+  index: -1
+thigh_R
+  rotate: false
+  xy: 1357, 177
+  size: 121, 128
+  orig: 121, 128
+  offset: 0, 0
+  index: -1
